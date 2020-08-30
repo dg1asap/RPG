@@ -12,7 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66ecd2fce2a2a77488d6543c246e2f1f, type: 3}
   m_Name: PlayerInventory
   m_EditorClassIdentifier: 
-  currentItem: {fileID: 11400000, guid: 4310a01599db62746917f3e31d29f166, type: 2}
-  items: []
-  numberOfKeys: 3
-  coins: 1
+  powerupSignal: {fileID: 11400000, guid: d4f8006ee61a1054bbafb2c65396baaf, type: 2}
+  currentItem: {fileID: 11400000, guid: 08fc873825dda7442aea11124c4aab8f, type: 2}
+  items:
+  - {fileID: 11400000, guid: 4310a01599db62746917f3e31d29f166, type: 2}
+  numberOfKeys: 1
+  coins: 163

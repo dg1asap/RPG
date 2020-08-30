@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 456a8de0187605f42ba0c38c4251e338, type: 3}
-  m_Name: ChestA
+  m_Name: SwitchA
   m_EditorClassIdentifier: 
   initialValue: 0
-  RuntimeValue: 1
+  RuntimeValue: 0

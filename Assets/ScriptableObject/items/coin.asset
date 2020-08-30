@@ -9,8 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 456a8de0187605f42ba0c38c4251e338, type: 3}
-  m_Name: ChestA
+  m_Script: {fileID: 11500000, guid: efec98b5d33b0ce459fe017cea70a338, type: 3}
+  m_Name: coin
   m_EditorClassIdentifier: 
-  initialValue: 0
-  RuntimeValue: 1
+  itemSprite: {fileID: 21300118, guid: 1fcd354c8e7757e4f904d0d556a22f40, type: 3}
+  itemDescription: 100 coins
+  isKey: 0
+  iscoins: 1
