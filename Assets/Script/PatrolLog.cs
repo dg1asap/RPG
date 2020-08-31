@@ -4,30 +4,24 @@ using UnityEngine;
 
 public class PatrolLog :log
 {
-
-
     public Transform[] path;
     public int currentPoint;
     public Transform currentGoal;
     public float roundingDistance;
 
-
-
     public override void CheckDistance()
-    
     {
         if (Vector3.Distance(target.position, transform.position) <= chaseRadius
             && Vector3.Distance(target.position, transform.position) > attackRadius)
         {
-            if (currentState == enemyState.idle || currentState == enemyState.walk
-                && currentState != enemyState.stagger)
+            if (currentState == enemyState.IDLE || currentState == enemyState.WALK
+                && currentState != enemyState.STAGGER)
             {
                 Vector3 temp = Vector3.MoveTowards(transform.position, target.position, moveSpeed * Time.deltaTime);
 
                 changeAnim(temp - transform.position);
                 myRigidbody.MovePosition(temp);
 
-               
                 anim.SetBool("wakeup", true);
             }
         }
@@ -42,23 +36,20 @@ public class PatrolLog :log
             else
             {
                 ChangeGoal();
-
             }
         }
-
     }
-   private void ChangeGoal()
+    
+    private void ChangeGoal()
     {
         if(currentPoint == path.Length -1)
         {
             currentPoint = 0;
             currentGoal = path[0];
-
         }else
         {
             currentPoint++;
             currentGoal = path[currentPoint];
         }
     }
-
 }

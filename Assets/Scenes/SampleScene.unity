@@ -21916,15 +21916,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b12c5d5c0d739f40ade075111d5ff8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  context: {fileID: 11400000, guid: 6cdf80f8942577f479af0400677c51f4, type: 2}
+  context: {fileID: 0}
   playerInRange: 0
-  contents: {fileID: 11400000, guid: 08fc873825dda7442aea11124c4aab8f, type: 2}
-  playerInventory: {fileID: 11400000, guid: bad01c8f5e0c1494185a79983e90ba75, type: 2}
+  contents: {fileID: 0}
+  playerInventory: {fileID: 0}
   isOpen: 0
-  storeOpen: {fileID: 11400000, guid: 127aa7a7a2fbda2418deeb5470a5d1a9, type: 2}
-  raiseItem: {fileID: 11400000, guid: 91e164fbfd197c046b7f8f78fba6e378, type: 2}
-  dialogBox: {fileID: 1669111410}
-  dialogText: {fileID: 2109322757}
+  storeOpen: {fileID: 0}
+  raiseItem: {fileID: 0}
+  dialogBox: {fileID: 0}
+  dialogText: {fileID: 0}
 --- !u!61 &498659240
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22335,22 +22335,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e83e37f863f42294f97d2d3afdb8bc70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  signal: {fileID: 11400000, guid: 5e707fe3d23984c4984311cb2990541f, type: 2}
+  signal: {fileID: 0}
   signalEvent:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 519420030}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: BeginKick
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
 --- !u!1 &522767997
 GameObject:
   m_ObjectHideFlags: 0
@@ -22400,9 +22388,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4dc7efa494eda774298d5210714d7cb7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  thrust: 4
-  knockTime: 0.2
-  damage: 1
+  thrust: 0
+  knockTime: 0
+  damage: 0
 --- !u!61 &522768000
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22442,18 +22430,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
-  maxHealth: {fileID: 11400000, guid: 26893eb7f20d2e44687b9b601fe0344c, type: 2}
+  maxHealth: {fileID: 0}
   health: 0
-  enemyname: logger
-  baseAttack: 1
-  moveSpeed: 1.5
-  deathEffect: {fileID: 1136972277569529555, guid: 6e730ad13c8f8a7488f9e66e0ca572ef,
-    type: 3}
+  enemyname: 
+  baseAttack: 0
+  moveSpeed: 0
+  deathEffect: {fileID: 0}
   thisLoot: {fileID: 0}
   myRigidbody: {fileID: 0}
-  target: {fileID: 182637482}
-  chaseRadius: 4
-  attackRadius: 1.2
+  target: {fileID: 0}
+  chaseRadius: 0
+  attackRadius: 0
   homePosition: {fileID: 0}
   anim: {fileID: 0}
 --- !u!50 &522768002
@@ -24339,15 +24326,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b12c5d5c0d739f40ade075111d5ff8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  context: {fileID: 11400000, guid: 6cdf80f8942577f479af0400677c51f4, type: 2}
+  context: {fileID: 0}
   playerInRange: 0
-  contents: {fileID: 11400000, guid: 4310a01599db62746917f3e31d29f166, type: 2}
-  playerInventory: {fileID: 11400000, guid: bad01c8f5e0c1494185a79983e90ba75, type: 2}
+  contents: {fileID: 0}
+  playerInventory: {fileID: 0}
   isOpen: 0
-  storeOpen: {fileID: 11400000, guid: 127aa7a7a2fbda2418deeb5470a5d1a9, type: 2}
-  raiseItem: {fileID: 11400000, guid: 91e164fbfd197c046b7f8f78fba6e378, type: 2}
-  dialogBox: {fileID: 1669111410}
-  dialogText: {fileID: 2109322757}
+  storeOpen: {fileID: 0}
+  raiseItem: {fileID: 0}
+  dialogBox: {fileID: 0}
+  dialogText: {fileID: 0}
 --- !u!61 &889357370
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -107158,9 +107145,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4dc7efa494eda774298d5210714d7cb7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  thrust: 4
-  knockTime: 0.2
-  damage: 1
+  thrust: 0
+  knockTime: 0
+  damage: 0
 --- !u!61 &1056880862
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -107200,18 +107187,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
-  maxHealth: {fileID: 11400000, guid: 26893eb7f20d2e44687b9b601fe0344c, type: 2}
+  maxHealth: {fileID: 0}
   health: 0
-  enemyname: logger
-  baseAttack: 1
-  moveSpeed: 1.5
-  deathEffect: {fileID: 1136972277569529555, guid: 6e730ad13c8f8a7488f9e66e0ca572ef,
-    type: 3}
+  enemyname: 
+  baseAttack: 0
+  moveSpeed: 0
+  deathEffect: {fileID: 0}
   thisLoot: {fileID: 0}
   myRigidbody: {fileID: 0}
-  target: {fileID: 182637482}
-  chaseRadius: 4
-  attackRadius: 1.2
+  target: {fileID: 0}
+  chaseRadius: 0
+  attackRadius: 0
   homePosition: {fileID: 0}
   anim: {fileID: 0}
 --- !u!50 &1056880864
@@ -122979,6 +122965,11 @@ PrefabInstance:
       propertyPath: cam
       value: 
       objectReference: {fileID: 519420031}
+    - target: {fileID: 8732324700790650553, guid: c3ca6b2a5e5ca014ba74ea10774bfdcf,
+        type: 3}
+      propertyPath: currentState
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8732324700790650554, guid: c3ca6b2a5e5ca014ba74ea10774bfdcf,
         type: 3}
       propertyPath: m_Name
