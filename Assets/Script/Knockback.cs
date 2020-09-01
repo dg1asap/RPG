@@ -18,7 +18,7 @@ public class Knockback : MonoBehaviour
 
         }
 
-        if (other.gameObject.CompareTag("enemy") || (other.gameObject.CompareTag("Player")&&!this.gameObject.CompareTag("frie")))
+        if (other.gameObject.CompareTag("enemy") || other.gameObject.CompareTag("Slime")||(other.gameObject.CompareTag("Player")&&!this.gameObject.CompareTag("frie")))
         {
             Rigidbody2D hit = other.GetComponent<Rigidbody2D>();
             if(hit != null)
@@ -30,10 +30,14 @@ public class Knockback : MonoBehaviour
                 if (other.gameObject.CompareTag("enemy") && other.isTrigger)
                 {
                     hit.GetComponent<enemy>().currentState = enemyState.STAGGER;
-                    other.GetComponent<enemy>().Knock(hit, knockTime,damage);
-
-
+                    other.GetComponent<enemy>().Knock(hit, knockTime, damage);
                 }
+                    if (other.gameObject.CompareTag("Slime") && other.isTrigger)
+                    {
+                        hit.GetComponent<SlimeDeath>().currentState = SlimeState.STAGGER;
+                        other.GetComponent<SlimeDeath>().Knock(hit, knockTime, damage);
+                    }
+                
               if(other.gameObject.CompareTag("Player")&&!this.gameObject.CompareTag("frie"))
                 { if (other.GetComponent<PlayerMovement>().currentState != PlayerState.STAGGER)
                     {

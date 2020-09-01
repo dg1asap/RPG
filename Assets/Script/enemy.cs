@@ -32,7 +32,10 @@ public class enemy : MonoBehaviour
         if (health <= 0)
         {
             DeathEffect();
-            MakeLoot();
+           // for (int i = 0; i < 4;i ++)
+           // {
+                MakeLoot();
+           // }
             this.gameObject.SetActive(false);
         }
     }
