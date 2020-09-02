@@ -7,7 +7,7 @@ public class boolValue : ScriptableObject,ISerializationCallbackReceiver
 {
 
     public bool initialValue;
-    [HideInInspector]
+    //[HideInInspector]
     public bool RuntimeValue;
     public void OnAfterDeserialize()
     {
