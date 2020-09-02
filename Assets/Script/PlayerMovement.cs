@@ -11,18 +11,18 @@ public enum PlayerState
     IDLE
 }
 
+// TODO : zmiana nazwy klasy na Player
 public class PlayerMovement : MonoBehaviour
 {
     public Camera cam;
 
-    public float   speed;
-
     public PlayerState currentState;
     private Rigidbody2D myRigidbody;
-    private Vector3 change;
+    private Vector3 direction;
     private Animator animator;
 
     public FloatValue Health;
+    public float speed;
     public Signal playerHealthSignal;
 
     public VectorValue startingPosition;
@@ -36,26 +36,39 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         Application.targetFrameRate = 60;
+
         currentState = PlayerState.WALK;
         myRigidbody = GetComponent<Rigidbody2D>();
 
+        //TODO usunąć sprzężenie czasowe getComonent<Animator> i setSpawnPoint()
         animator = GetComponent<Animator>();
-        animator.SetFloat("moveX", 0);
-        animator.SetFloat("moveY", -1);
+        setSpawnPoint();
+    }
 
+    private void setSpawnPoint(){
+        setStartingPosition();
+        rotatePlayerToSouth();
+    }
+
+    private void setStartingPosition(){
         transform.position = startingPosition.initialValue;
+    }
+
+    private void rotatePlayerToSouth(){
+        rotatePlayerAtXY(0, -1);
+    }
+
+    private void rotatePlayerAtXY(int x, int y){
+        animator.SetFloat("moveX", x);
+        animator.SetFloat("moveY", y);
     }
 
     void Update()
     {
-        if(currentState == PlayerState.INTERACT)
-        {
-            return;
-        }
+        returnIfPlayerInteract();
 
-        change = Vector3.zero;
-        change.x = Input.GetAxisRaw("Horizontal");
-        change.y = Input.GetAxisRaw("Vertical");
+        setThePlayerDirection();
+
         if(Input.GetButtonDown("attack") && currentState != PlayerState.ATTACK 
             && currentState != PlayerState.STAGGER)
         {
@@ -66,6 +79,20 @@ public class PlayerMovement : MonoBehaviour
             UpdateAnimationAndMove();
         }
     }
+
+    private void returnIfPlayerInteract(){
+        if(currentState == PlayerState.INTERACT)
+            return;
+    }
+  
+    private void setThePlayerDirection(){
+        direction = Vector3.zero;
+        direction.x = Input.GetAxisRaw("Horizontal");
+        direction.y = Input.GetAxisRaw("Vertical");
+    }
+   
+   
+   
    
     private IEnumerator AttackCo()
     {
@@ -101,11 +128,11 @@ public class PlayerMovement : MonoBehaviour
 
     void UpdateAnimationAndMove()
     {
-        if(change != Vector3.zero)
+        if(direction != Vector3.zero)
         {
             MoveCharacter();
-            animator.SetFloat("moveX",change.x);
-            animator.SetFloat("moveY", change.y);
+            animator.SetFloat("moveX",direction.x);
+            animator.SetFloat("moveY", direction.y);
             animator.SetBool("moving", true);
         }
         else
@@ -116,8 +143,8 @@ public class PlayerMovement : MonoBehaviour
     
     void MoveCharacter()
     {
-        change.Normalize();
-        myRigidbody.MovePosition(transform.position + change * speed * Time.deltaTime);
+        direction.Normalize();
+        myRigidbody.MovePosition(transform.position + direction * speed * Time.deltaTime);
     }
    
    
@@ -149,3 +176,9 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 }
+
+
+// class Movement{
+
+
+// }
