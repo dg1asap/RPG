@@ -57,6 +57,7 @@ public class log : enemy
     
     public void changeAnim(Vector2 direction)
     {
+        
         if (Mathf.Abs(direction.x) > Mathf.Abs(direction.y))
         {
             if (direction.x > 0)
