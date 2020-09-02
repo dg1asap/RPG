@@ -69,15 +69,10 @@ public class PlayerMovement : MonoBehaviour
 
         setThePlayerDirection();
 
-        if(Input.GetButtonDown("attack") && currentState != PlayerState.ATTACK 
-            && currentState != PlayerState.STAGGER)
-        {
-           StartCoroutine(AttackCo());
-        }
-        else  if (currentState == PlayerState.WALK||currentState ==PlayerState.IDLE)
-        {
+        if(isCapableOfAttack() && isPressedAttackButton())
+            StartCoroutine(AttackCo());
+        else if(isCapableOfMove())
             UpdateAnimationAndMove();
-        }
     }
 
     private void returnIfPlayerInteract(){
@@ -91,7 +86,21 @@ public class PlayerMovement : MonoBehaviour
         direction.y = Input.GetAxisRaw("Vertical");
     }
    
+    private bool isCapableOfAttack(){
+        return isInAttackingOrStagger();
+    }
+    
+    private bool isInAttackingOrStagger(){
+        return currentState != PlayerState.ATTACK && currentState != PlayerState.STAGGER;
+    }
    
+    private bool isPressedAttackButton(){
+        return Input.GetButtonDown("attack");
+    }
+
+    private bool isCapableOfMove(){
+        return currentState == PlayerState.WALK || currentState == PlayerState.IDLE;
+    }
    
    
     private IEnumerator AttackCo()
