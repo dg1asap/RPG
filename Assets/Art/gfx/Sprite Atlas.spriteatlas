@@ -43,7 +43,7 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 57a4d7ef58adb6443b4ed9b202bf1567, type: 3}
-    totalSpriteSurfaceArea: 928469
+    totalSpriteSurfaceArea: 973969
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -168,6 +168,7 @@ SpriteAtlas:
   - {fileID: 21300096, guid: a3412b8363acd524b9192b3e316989df, type: 3}
   - {fileID: 21300058, guid: a3412b8363acd524b9192b3e316989df, type: 3}
   - {fileID: 21300056, guid: a3412b8363acd524b9192b3e316989df, type: 3}
+  - {fileID: 21300000, guid: 6e82f1e39bf97ba489d72d2321fcd364, type: 3}
   - {fileID: 21300004, guid: ee9a9114f4dfa714db5ade4042aa4bfe, type: 3}
   - {fileID: 21300006, guid: ee9a9114f4dfa714db5ade4042aa4bfe, type: 3}
   - {fileID: 21300000, guid: ee9a9114f4dfa714db5ade4042aa4bfe, type: 3}
@@ -3199,6 +3200,7 @@ SpriteAtlas:
   - enemy3_48
   - enemy3_29
   - enemy3_28
+  - main menu (tymczasowe)
   - celownik_2
   - celownik_3
   - celownik_0
