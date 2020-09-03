@@ -87,11 +87,11 @@ public class PlayerMovement : MonoBehaviour
     }
    
     private bool isCapableOfAttack(){
-        return isInAttackingOrStagger();
+        return !isInAttackingOrStagger();
     }
     
     private bool isInAttackingOrStagger(){
-        return currentState != PlayerState.ATTACK && currentState != PlayerState.STAGGER;
+        return currentState == PlayerState.ATTACK || currentState == PlayerState.STAGGER;
     }
    
     private bool isPressedAttackButton(){
