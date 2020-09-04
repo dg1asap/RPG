@@ -65,45 +65,64 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        returnIfPlayerInteract();
+        if(canControled())
+            steer();
+    }
 
-        setThePlayerDirection();
+    private bool canControled()
+    {
+        return !isInInteract();
+    }
 
-        if(isCapableOfAttack() && isPressedAttackButton())
-            StartCoroutine(AttackCo());
-        else if(isCapableOfMove())
+    private bool isInInteract()
+    {
+        return currentState == PlayerState.INTERACT;
+    }
+
+    private void steer()
+    {
+        if(canAttack() && isPressedAttackButton())
+            attack();
+            // StartCoroutine(AttackCo());
+        else if(canMove())
+        {
+            setDirection();
             UpdateAnimationAndMove();
+        }
     }
 
-    private void returnIfPlayerInteract(){
-        if(currentState == PlayerState.INTERACT)
-            return;
-    }
-  
-    private void setThePlayerDirection(){
+    private void setDirection()
+    {
         direction = Vector3.zero;
         direction.x = Input.GetAxisRaw("Horizontal");
         direction.y = Input.GetAxisRaw("Vertical");
     }
    
-    private bool isCapableOfAttack(){
+    private bool canAttack()
+    {
         return !isInAttackingOrStagger();
     }
     
-    private bool isInAttackingOrStagger(){
+    private bool isInAttackingOrStagger()
+    {
         return currentState == PlayerState.ATTACK || currentState == PlayerState.STAGGER;
     }
    
-    private bool isPressedAttackButton(){
+    private bool isPressedAttackButton()
+    {
         return Input.GetButtonDown("attack");
     }
 
-    private bool isCapableOfMove(){
+    private bool canMove()
+    {
         return currentState == PlayerState.WALK || currentState == PlayerState.IDLE;
     }
+
+    private void attack(){
+        StartCoroutine(meleeAttack());
+    } 
    
-   
-    private IEnumerator AttackCo()
+    private IEnumerator meleeAttack()
     {
         animator.SetBool("attacking", true);
         currentState = PlayerState.ATTACK;
@@ -115,6 +134,9 @@ public class PlayerMovement : MonoBehaviour
             currentState = PlayerState.WALK;
         }
     }
+
+    // private void setPlayerState
+   
     public void RaiseItem()
     {
         if (playerInventory.currentItem != null)
