@@ -31,7 +31,7 @@ public class PlayerMovement : MonoBehaviour
     public SpriteRenderer receivedItemSprite;
     public Signal playerHit;
 
-    Vector2 mousePos;
+    // Vector2 mousePos;
 
     void Start()
     {
@@ -65,56 +65,97 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     { playerHealthSignal.Raise();
-        returnIfPlayerInteract();
+        if(canControlled())
+            steer();
+    }
 
-        setThePlayerDirection();
 
-        if(isCapableOfAttack() && isPressedAttackButton())
-            StartCoroutine(AttackCo());
-        else if(isCapableOfMove())
+    private bool canControlled()
+    {
+        return !isInInteract();
+    }
+
+    private bool isInInteract()
+    {
+        return currentState == PlayerState.INTERACT;
+    }
+
+    private void steer()
+    {
+        if(canAttack() && isPressedAttackButton())
+            attack();
+        else if(canMove())
+        {
+            setDirection();
             UpdateAnimationAndMove();
+        }
     }
 
-    private void returnIfPlayerInteract(){
-        if(currentState == PlayerState.INTERACT)
-            return;
-    }
-  
-    private void setThePlayerDirection(){
+    private void setDirection()
+    {
         direction = Vector3.zero;
         direction.x = Input.GetAxisRaw("Horizontal");
         direction.y = Input.GetAxisRaw("Vertical");
     }
    
-    private bool isCapableOfAttack(){
+    private bool canAttack()
+    {
         return !isInAttackingOrStagger();
     }
     
-    private bool isInAttackingOrStagger(){
+    private bool isInAttackingOrStagger()
+    {
         return currentState == PlayerState.ATTACK || currentState == PlayerState.STAGGER;
     }
    
-    private bool isPressedAttackButton(){
+    private bool isPressedAttackButton()
+    {
         return Input.GetButtonDown("attack");
     }
 
-    private bool isCapableOfMove(){
+    private bool canMove()
+    {
         return currentState == PlayerState.WALK || currentState == PlayerState.IDLE;
     }
-   
-   
-    private IEnumerator AttackCo()
+
+    private void attack()
     {
+        StartCoroutine(meleeAttack());
+    } 
+   
+    private IEnumerator meleeAttack()
+    {
+        startMeleeAttack();
+        yield return null;
+        yield return StartCoroutine(
+            endMeleeAttackAndTakeCooldown(.3f));
+    }
+
+    private void startMeleeAttack()
+    {
+        setONattack();
         animator.SetBool("attacking", true);
         currentState = PlayerState.ATTACK;
-        yield return null;
+    }
+
+    private void setONattack(){
+        currentState = PlayerState.ATTACK;
+    }
+
+    private IEnumerator endMeleeAttackAndTakeCooldown(float cooldown)
+    {
         animator.SetBool("attacking", false);
-        yield return new WaitForSeconds(.3f);
-        if (currentState != PlayerState.INTERACT)
-        {
-            currentState = PlayerState.WALK;
+        yield return new WaitForSeconds(cooldown);
+
+        if(canControlled()){
+            setONmove();
         }
     }
+
+    private void setONmove(){
+        currentState = PlayerState.WALK;
+    }
+   
     public void RaiseItem()
     {
         if (playerInventory.currentItem != null)
