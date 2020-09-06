@@ -36,7 +36,7 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         Application.targetFrameRate = 60;
-
+        
         currentState = PlayerState.WALK;
         myRigidbody = GetComponent<Rigidbody2D>();
 
@@ -64,7 +64,7 @@ public class PlayerMovement : MonoBehaviour
     }
 
     void Update()
-    {
+    { playerHealthSignal.Raise();
         returnIfPlayerInteract();
 
         setThePlayerDirection();
