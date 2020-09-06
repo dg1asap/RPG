@@ -31,7 +31,7 @@ public class PlayerMovement : MonoBehaviour
     public SpriteRenderer receivedItemSprite;
     public Signal playerHit;
 
-    Vector2 mousePos;
+    // Vector2 mousePos;
 
     void Start()
     {
@@ -65,11 +65,11 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        if(canControled())
+        if(canControlled())
             steer();
     }
 
-    private bool canControled()
+    private bool canControlled()
     {
         return !isInInteract();
     }
@@ -83,7 +83,6 @@ public class PlayerMovement : MonoBehaviour
     {
         if(canAttack() && isPressedAttackButton())
             attack();
-            // StartCoroutine(AttackCo());
         else if(canMove())
         {
             setDirection();
@@ -118,24 +117,43 @@ public class PlayerMovement : MonoBehaviour
         return currentState == PlayerState.WALK || currentState == PlayerState.IDLE;
     }
 
-    private void attack(){
+    private void attack()
+    {
         StartCoroutine(meleeAttack());
     } 
    
     private IEnumerator meleeAttack()
     {
+        startMeleeAttack();
+        yield return null;
+        yield return StartCoroutine(
+            endMeleeAttackAndTakeCooldown(.3f));
+    }
+
+    private void startMeleeAttack()
+    {
+        setONattack();
         animator.SetBool("attacking", true);
         currentState = PlayerState.ATTACK;
-        yield return null;
+    }
+
+    private void setONattack(){
+        currentState = PlayerState.ATTACK;
+    }
+
+    private IEnumerator endMeleeAttackAndTakeCooldown(float cooldown)
+    {
         animator.SetBool("attacking", false);
-        yield return new WaitForSeconds(.3f);
-        if (currentState != PlayerState.INTERACT)
-        {
-            currentState = PlayerState.WALK;
+        yield return new WaitForSeconds(cooldown);
+
+        if(canControlled()){
+            setONmove();
         }
     }
 
-    // private void setPlayerState
+    private void setONmove(){
+        currentState = PlayerState.WALK;
+    }
    
     public void RaiseItem()
     {
