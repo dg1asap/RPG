@@ -4,9 +4,10 @@ using UnityEngine;
 
 public class kula : MonoBehaviour
 {
+    public float time;
     private void Update()
     {
- Destroy(gameObject,0.5f);
+ Destroy(gameObject,time);
    
     }
    
