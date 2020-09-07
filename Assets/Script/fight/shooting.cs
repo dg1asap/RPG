@@ -4,16 +4,18 @@ using UnityEngine;
 
 public class shooting : PowerUp
 {
-    public float moveSpeed = 5f;
+    public Camera cam;
 
     public Rigidbody2D rb;
-    Vector2 movement;
-    public Camera cam;
-    public Inventory playerInventory;
-    Vector2 mousePos;
     public Transform firePoint;
     public GameObject bulletPrefab;
+    
+    public Inventory playerInventory;
+
     public float bulletForce = 20f;
+    public float moveSpeed = 5f;
+    Vector2 movement;
+    Vector2 mousePos;
 
     // Update is called once per frame
     private void Start()

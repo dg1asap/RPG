@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+using AttackProcess;
+
 public enum PlayerState
 {
     WALK,
@@ -64,11 +66,11 @@ public class PlayerMovement : MonoBehaviour
     }
 
     void Update()
-    { playerHealthSignal.Raise();
+    {
+        playerHealthSignal.Raise();
         if(canControlled())
             steer();
     }
-
 
     private bool canControlled()
     {
@@ -110,7 +112,7 @@ public class PlayerMovement : MonoBehaviour
    
     private bool isPressedAttackButton()
     {
-        return Input.GetButtonDown("attack");
+        return AttackFactory.canProduce();
     }
 
     private bool canMove()
@@ -120,6 +122,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void attack()
     {
+        Attack a = AttackFactory.make();
         StartCoroutine(meleeAttack());
     } 
    
