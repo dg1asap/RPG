@@ -47,20 +47,24 @@ public class PlayerMovement : MonoBehaviour
         setSpawnPoint();
     }
 
-    private void setSpawnPoint(){
+    private void setSpawnPoint()
+    {
         setStartingPosition();
         rotatePlayerToSouth();
     }
 
-    private void setStartingPosition(){
+    private void setStartingPosition()
+    {
         transform.position = startingPosition.initialValue;
     }
 
-    private void rotatePlayerToSouth(){
+    private void rotatePlayerToSouth()
+    {
         rotatePlayerAtXY(0, -1);
     }
 
-    private void rotatePlayerAtXY(int x, int y){
+    private void rotatePlayerAtXY(int x, int y)
+    {
         animator.SetFloat("moveX", x);
         animator.SetFloat("moveY", y);
     }

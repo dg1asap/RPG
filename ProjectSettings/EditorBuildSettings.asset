@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/dungeon.unity
     guid: 2100d67f1b9530846a41a75499f89ba6
+  - enabled: 1
+    path: Assets/Scenes/maze/maze5.unity
+    guid: 29b3101c8e0232446906caa04d73d59b
   m_configObjects: {}

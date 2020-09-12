@@ -122013,14 +122013,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   powerupSignal: {fileID: 11400000, guid: d4f8006ee61a1054bbafb2c65396baaf, type: 2}
-  moveSpeed: 5
-  rb: {fileID: 1560000439}
   cam: {fileID: 519420031}
-  playerInventory: {fileID: 11400000, guid: bad01c8f5e0c1494185a79983e90ba75, type: 2}
+  rb: {fileID: 1560000439}
   firePoint: {fileID: 1786459056}
   bulletPrefab: {fileID: 3176975788206044608, guid: 45c82cdbd22df8242b9f2d7aa8a36163,
     type: 3}
+  playerInventory: {fileID: 11400000, guid: bad01c8f5e0c1494185a79983e90ba75, type: 2}
   bulletForce: 20
+  moveSpeed: 5
 --- !u!114 &1560000441
 MonoBehaviour:
   m_ObjectHideFlags: 0
