@@ -33,7 +33,7 @@ public class shootingenemy : MonoBehaviour
     public Transform player;
 
     public GameObject projectile;
-
+    public GameObject projectile1;
 
 
     // Start is called before the first frame update
@@ -87,7 +87,8 @@ public class shootingenemy : MonoBehaviour
             {
 
                 Instantiate(projectile, transform.position, Quaternion.identity);
-
+                Instantiate(projectile1, transform.position, Quaternion.identity);
+               
                 timeBtwShots = startTimeBtwShots;
 
             }
