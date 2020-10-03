@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 using AttackProcess;
 
 public enum PlayerState
@@ -17,31 +17,32 @@ public enum PlayerState
 public class PlayerMovement : MonoBehaviour
 {
     public Camera cam;
-
+    private GameMaster gm;
     public PlayerState currentState;
     private Rigidbody2D myRigidbody;
     private Vector3 direction;
     private Animator animator;
-
+    float zdrowie;
     public FloatValue Health;
     public float speed;
     public Signal playerHealthSignal;
-
+    public FloatValue heartContainers;
     public VectorValue startingPosition;
 
     public Inventory playerInventory;
     public SpriteRenderer receivedItemSprite;
     public Signal playerHit;
-
+    
     // Vector2 mousePos;
 
     void Start()
-    {
+    {zdrowie=Health.RuntimeValue;
         Application.targetFrameRate = 60;
         
         currentState = PlayerState.WALK;
         myRigidbody = GetComponent<Rigidbody2D>();
-
+       // gm = GameObject.FindGameObjectWithTag("GM").GetComponent<GameMaster>();
+      //  transform.position = gm.lastCheckPointPos;
         //TODO usunąć sprzężenie czasowe getComonent<Animator> i setSpawnPoint()
         animator = GetComponent<Animator>();
         setSpawnPoint();
@@ -216,7 +217,11 @@ public class PlayerMovement : MonoBehaviour
         }
         else
         {
-            this.gameObject.SetActive(false);
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            Health.RuntimeValue = heartContainers.RuntimeValue*2;
+
+            playerHealthSignal.Raise();
+            // this.gameObject.SetActive(false);
         }
     }
   

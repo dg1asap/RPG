@@ -9,6 +9,7 @@ TagManager:
   - frie
   - enemyfriendly
   - Slime
+  - GM
   layers:
   - Default
   - TransparentFX

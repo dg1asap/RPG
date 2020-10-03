@@ -8,7 +8,7 @@ public class heartUP : PowerUp
     public FloatValue playerHealth;
     public void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.gameObject.CompareTag("Player"))
+        if(other.gameObject.CompareTag("Player")&& heartContainers.RuntimeValue <=4)
         {
             heartContainers.RuntimeValue += 1;
             
@@ -16,6 +16,10 @@ public class heartUP : PowerUp
             powerupSignal.Raise();
             Destroy(this.gameObject);
 
+        }
+        else
+        {
+            Destroy(this.gameObject);
         }
 
     }

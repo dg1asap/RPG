@@ -23,7 +23,6 @@ public class HeartManager : MonoBehaviour
 
     public void InitHearts()
     {
-
         for (int i = 0; i < heartContainers.RuntimeValue; i++)
         {
 
