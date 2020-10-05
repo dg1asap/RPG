@@ -1,7 +1,235 @@
 fileFormatVersion: 2
 guid: a4fc9d22515aa2241be55410238f0a84
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7149141627091154168
+    second: SzamanZniwiarzOFFICIAL_0
+  - first:
+      213: -7193360067891300086
+    second: SzamanZniwiarzOFFICIAL_1
+  - first:
+      213: 58960069592625507
+    second: SzamanZniwiarzOFFICIAL_2
+  - first:
+      213: 1104298090375307983
+    second: SzamanZniwiarzOFFICIAL_3
+  - first:
+      213: -6662085637504381668
+    second: SzamanZniwiarzOFFICIAL_4
+  - first:
+      213: -7180489054304097276
+    second: SzamanZniwiarzOFFICIAL_5
+  - first:
+      213: -3519700392900883263
+    second: SzamanZniwiarzOFFICIAL_6
+  - first:
+      213: -4947397123995662168
+    second: SzamanZniwiarzOFFICIAL_7
+  - first:
+      213: -2439237107522870313
+    second: SzamanZniwiarzOFFICIAL_8
+  - first:
+      213: 5653204296522093179
+    second: SzamanZniwiarzOFFICIAL_9
+  - first:
+      213: -7481297124668705547
+    second: SzamanZniwiarzOFFICIAL_10
+  - first:
+      213: -667133807503526881
+    second: SzamanZniwiarzOFFICIAL_11
+  - first:
+      213: 5231247480911731701
+    second: SzamanZniwiarzOFFICIAL_12
+  - first:
+      213: 5631318541799297399
+    second: SzamanZniwiarzOFFICIAL_13
+  - first:
+      213: 8215219813281203213
+    second: SzamanZniwiarzOFFICIAL_14
+  - first:
+      213: -2517336668627728796
+    second: SzamanZniwiarzOFFICIAL_15
+  - first:
+      213: -6887750425425279158
+    second: SzamanZniwiarzOFFICIAL_16
+  - first:
+      213: -2550591840513142840
+    second: SzamanZniwiarzOFFICIAL_17
+  - first:
+      213: 5545491665988200397
+    second: SzamanZniwiarzOFFICIAL_18
+  - first:
+      213: -6715276512653683268
+    second: SzamanZniwiarzOFFICIAL_19
+  - first:
+      213: -253983496532256657
+    second: SzamanZniwiarzOFFICIAL_20
+  - first:
+      213: -6364559784806868450
+    second: SzamanZniwiarzOFFICIAL_21
+  - first:
+      213: -1929537279004639071
+    second: SzamanZniwiarzOFFICIAL_22
+  - first:
+      213: -904950326407126709
+    second: SzamanZniwiarzOFFICIAL_23
+  - first:
+      213: 6463329966171496261
+    second: SzamanZniwiarzOFFICIAL_24
+  - first:
+      213: -1090340142918395154
+    second: SzamanZniwiarzOFFICIAL_25
+  - first:
+      213: -255423741179429223
+    second: SzamanZniwiarzOFFICIAL_26
+  - first:
+      213: 7730724545226918026
+    second: SzamanZniwiarzOFFICIAL_27
+  - first:
+      213: 482049273877059584
+    second: SzamanZniwiarzOFFICIAL_28
+  - first:
+      213: -417690015269151780
+    second: SzamanZniwiarzOFFICIAL_29
+  - first:
+      213: -7453321275213999245
+    second: SzamanZniwiarzOFFICIAL_30
+  - first:
+      213: 4849429250901209159
+    second: SzamanZniwiarzOFFICIAL_31
+  - first:
+      213: 1682651423382326004
+    second: SzamanZniwiarzOFFICIAL_32
+  - first:
+      213: -1508492302241178553
+    second: SzamanZniwiarzOFFICIAL_33
+  - first:
+      213: 5433959048708383894
+    second: SzamanZniwiarzOFFICIAL_34
+  - first:
+      213: -3653837087722606587
+    second: SzamanZniwiarzOFFICIAL_35
+  - first:
+      213: 8841655486169173354
+    second: SzamanZniwiarzOFFICIAL_36
+  - first:
+      213: -6545502311753294250
+    second: SzamanZniwiarzOFFICIAL_37
+  - first:
+      213: 7845287927019460113
+    second: SzamanZniwiarzOFFICIAL_38
+  - first:
+      213: -6808894085522307917
+    second: SzamanZniwiarzOFFICIAL_39
+  - first:
+      213: 5352735519605728036
+    second: SzamanZniwiarzOFFICIAL_40
+  - first:
+      213: -645091753684238193
+    second: SzamanZniwiarzOFFICIAL_41
+  - first:
+      213: -7235639038134964738
+    second: SzamanZniwiarzOFFICIAL_42
+  - first:
+      213: 2705432698169817622
+    second: SzamanZniwiarzOFFICIAL_43
+  - first:
+      213: 3252671680221546335
+    second: SzamanZniwiarzOFFICIAL_44
+  - first:
+      213: -9150715435253210486
+    second: SzamanZniwiarzOFFICIAL_45
+  - first:
+      213: 7655083098769933107
+    second: SzamanZniwiarzOFFICIAL_46
+  - first:
+      213: 2588972962660571407
+    second: SzamanZniwiarzOFFICIAL_47
+  - first:
+      213: 6813005215840476524
+    second: SzamanZniwiarzOFFICIAL_48
+  - first:
+      213: 7385858729936596334
+    second: SzamanZniwiarzOFFICIAL_49
+  - first:
+      213: -3582578104959559458
+    second: SzamanZniwiarzOFFICIAL_50
+  - first:
+      213: 4716318739617474449
+    second: SzamanZniwiarzOFFICIAL_51
+  - first:
+      213: 7284615334580402338
+    second: SzamanZniwiarzOFFICIAL_52
+  - first:
+      213: -3955280577976600112
+    second: SzamanZniwiarzOFFICIAL_53
+  - first:
+      213: 456701925123500624
+    second: SzamanZniwiarzOFFICIAL_54
+  - first:
+      213: -7087964704970263737
+    second: SzamanZniwiarzOFFICIAL_55
+  - first:
+      213: -2820920299828802924
+    second: SzamanZniwiarzOFFICIAL_56
+  - first:
+      213: -8084949990093937076
+    second: SzamanZniwiarzOFFICIAL_57
+  - first:
+      213: -4834118286676742080
+    second: SzamanZniwiarzOFFICIAL_58
+  - first:
+      213: 4799369610247732508
+    second: SzamanZniwiarzOFFICIAL_59
+  - first:
+      213: 1033789447201331237
+    second: SzamanZniwiarzOFFICIAL_60
+  - first:
+      213: -5018932345913445843
+    second: SzamanZniwiarzOFFICIAL_61
+  - first:
+      213: -6346478785591473111
+    second: SzamanZniwiarzOFFICIAL_62
+  - first:
+      213: 5207157658874932374
+    second: SzamanZniwiarzOFFICIAL_63
+  - first:
+      213: -5933579277431675785
+    second: SzamanZniwiarzOFFICIAL_64
+  - first:
+      213: -3280354593866153625
+    second: SzamanZniwiarzOFFICIAL_65
+  - first:
+      213: -3072259781794584048
+    second: SzamanZniwiarzOFFICIAL_66
+  - first:
+      213: -8928130645212082462
+    second: SzamanZniwiarzOFFICIAL_67
+  - first:
+      213: -5642271686075666348
+    second: SzamanZniwiarzOFFICIAL_68
+  - first:
+      213: 2940466466597541246
+    second: SzamanZniwiarzOFFICIAL_69
+  - first:
+      213: -2620715267788683737
+    second: SzamanZniwiarzOFFICIAL_70
+  - first:
+      213: 5465852720885139550
+    second: SzamanZniwiarzOFFICIAL_71
+  - first:
+      213: -1756509161058147735
+    second: SzamanZniwiarzOFFICIAL_72
+  - first:
+      213: -5755026728764542940
+    second: SzamanZniwiarzOFFICIAL_73
+  - first:
+      213: -869756885411238035
+    second: SzamanZniwiarzOFFICIAL_74
+  - first:
+      213: -5985721708536280710
+    second: SzamanZniwiarzOFFICIAL_75
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +260,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -41,12 +269,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -66,7 +294,31 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -75,7 +327,427 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 124
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b0644619529cc90800000000000000
+      internalID: -7149141627091154168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 124
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09fbdb512d0c2c90800000000000000
+      internalID: -7193360067891300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 124
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3613004fed771d000800000000000000
+      internalID: 58960069592625507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 124
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc266fa2341435f00800000000000000
+      internalID: 1104298090375307983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 124
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dc151f8648b83a0800000000000000
+      internalID: -6662085637504381668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 87
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40caf9cbf37c95c90800000000000000
+      internalID: -7180489054304097276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 87
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc075d0423872fc0800000000000000
+      internalID: -3519700392900883263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 87
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a803753780575bb0800000000000000
+      internalID: -4947397123995662168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 87
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3e52b36c6162ed0800000000000000
+      internalID: -2439237107522870313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 87
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7259e01b57347e40800000000000000
+      internalID: 5653204296522093179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 48
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f143912365dddb6f0800000000000000
+      internalID: -667133807503526881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 48
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7719405b066762e40800000000000000
+      internalID: 5631318541799297399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 46
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a470bfe1b7bc960a0800000000000000
+      internalID: -6887750425425279158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 45
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7ad18f94b85fc40800000000000000
+      internalID: 5545491665988200397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 44
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a99dab89a8ca7a0800000000000000
+      internalID: -6364559784806868450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f570496e8afc32d20800000000000000
+      internalID: 3252671680221546335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_47
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09597c4131ede320800000000000000
+      internalID: 2588972962660571407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_49
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6da6170267df7660800000000000000
+      internalID: 7385858729936596334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8370f1d07281560800000000000000
+      internalID: 7284615334580402338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SzamanZniwiarzOFFICIAL_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a293f2bf7865600800000000000000
+      internalID: 456701925123500624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

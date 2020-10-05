@@ -6,7 +6,7 @@ public class MeleeEnemy : log
 {
     void Start()
     {
-        
+        target = GameObject.FindWithTag("Player").transform;
     }
 
     void Update()

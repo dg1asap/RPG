@@ -1,7 +1,379 @@
 fileFormatVersion: 2
 guid: f23b2a317edd4e0468262f03f64aa241
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4075113388141396741
+    second: mnichyOFFICIAL_0
+  - first:
+      213: 251783408370352222
+    second: mnichyOFFICIAL_1
+  - first:
+      213: -2876022770657208018
+    second: mnichyOFFICIAL_2
+  - first:
+      213: 7845970437999675612
+    second: mnichyOFFICIAL_3
+  - first:
+      213: -453121885146093534
+    second: mnichyOFFICIAL_4
+  - first:
+      213: -4097140789847868102
+    second: mnichyOFFICIAL_5
+  - first:
+      213: 5305411108151939045
+    second: mnichyOFFICIAL_6
+  - first:
+      213: -7947786902793833230
+    second: mnichyOFFICIAL_7
+  - first:
+      213: -5510704441039997870
+    second: mnichyOFFICIAL_8
+  - first:
+      213: 1225641459644961388
+    second: mnichyOFFICIAL_9
+  - first:
+      213: -542010925592411525
+    second: mnichyOFFICIAL_10
+  - first:
+      213: -6496534259909508310
+    second: mnichyOFFICIAL_11
+  - first:
+      213: 8171896811550161850
+    second: mnichyOFFICIAL_12
+  - first:
+      213: 8426658298388600441
+    second: mnichyOFFICIAL_13
+  - first:
+      213: -5543224364708698031
+    second: mnichyOFFICIAL_14
+  - first:
+      213: -4338476578554368422
+    second: mnichyOFFICIAL_15
+  - first:
+      213: -7377108672155777284
+    second: mnichyOFFICIAL_16
+  - first:
+      213: 6193046370942600968
+    second: mnichyOFFICIAL_17
+  - first:
+      213: -8164233257766072437
+    second: mnichyOFFICIAL_18
+  - first:
+      213: 1096079649197867186
+    second: mnichyOFFICIAL_19
+  - first:
+      213: 6132728687518639709
+    second: mnichyOFFICIAL_20
+  - first:
+      213: -6599009044167071604
+    second: mnichyOFFICIAL_21
+  - first:
+      213: -3662482481970856325
+    second: mnichyOFFICIAL_22
+  - first:
+      213: -7445102676182022528
+    second: mnichyOFFICIAL_23
+  - first:
+      213: -3730461664892325654
+    second: mnichyOFFICIAL_24
+  - first:
+      213: 6856121731727028146
+    second: mnichyOFFICIAL_25
+  - first:
+      213: -931805659122007748
+    second: mnichyOFFICIAL_26
+  - first:
+      213: 5510506806584197964
+    second: mnichyOFFICIAL_27
+  - first:
+      213: 119045134340985692
+    second: mnichyOFFICIAL_28
+  - first:
+      213: -6932860961169349812
+    second: mnichyOFFICIAL_29
+  - first:
+      213: -5416849994230479367
+    second: mnichyOFFICIAL_30
+  - first:
+      213: 7459012606203620665
+    second: mnichyOFFICIAL_31
+  - first:
+      213: 5790869859308988223
+    second: mnichyOFFICIAL_32
+  - first:
+      213: 5803652668359704850
+    second: mnichyOFFICIAL_33
+  - first:
+      213: -1522663754981803250
+    second: mnichyOFFICIAL_34
+  - first:
+      213: 3901045094281230384
+    second: mnichyOFFICIAL_35
+  - first:
+      213: -189879703671518415
+    second: mnichyOFFICIAL_36
+  - first:
+      213: 4484221140640599511
+    second: mnichyOFFICIAL_37
+  - first:
+      213: 8647074289629901765
+    second: mnichyOFFICIAL_38
+  - first:
+      213: -1832919473357476198
+    second: mnichyOFFICIAL_39
+  - first:
+      213: -6897551774378370328
+    second: mnichyOFFICIAL_40
+  - first:
+      213: -8910688692409461155
+    second: mnichyOFFICIAL_41
+  - first:
+      213: -8870308958402427037
+    second: mnichyOFFICIAL_42
+  - first:
+      213: -7230989543888195767
+    second: mnichyOFFICIAL_43
+  - first:
+      213: -4514431108218494532
+    second: mnichyOFFICIAL_44
+  - first:
+      213: -3866889817131993654
+    second: mnichyOFFICIAL_45
+  - first:
+      213: 2146011682851668716
+    second: mnichyOFFICIAL_46
+  - first:
+      213: -918806048102582098
+    second: mnichyOFFICIAL_47
+  - first:
+      213: 6998444573834739329
+    second: mnichyOFFICIAL_48
+  - first:
+      213: 8997857183407977242
+    second: mnichyOFFICIAL_49
+  - first:
+      213: -1956262471199180379
+    second: mnichyOFFICIAL_50
+  - first:
+      213: -1870526334515189504
+    second: mnichyOFFICIAL_51
+  - first:
+      213: 7387025948487670911
+    second: mnichyOFFICIAL_52
+  - first:
+      213: -6321469233370114125
+    second: mnichyOFFICIAL_53
+  - first:
+      213: -4957865441519236854
+    second: mnichyOFFICIAL_54
+  - first:
+      213: 85840952232850588
+    second: mnichyOFFICIAL_55
+  - first:
+      213: -4204029462817890103
+    second: mnichyOFFICIAL_56
+  - first:
+      213: -1035555646389194637
+    second: mnichyOFFICIAL_57
+  - first:
+      213: 321411667298691962
+    second: mnichyOFFICIAL_58
+  - first:
+      213: 5814759073732956672
+    second: mnichyOFFICIAL_59
+  - first:
+      213: -7023063661570925114
+    second: mnichyOFFICIAL_60
+  - first:
+      213: 7128256266884933829
+    second: mnichyOFFICIAL_61
+  - first:
+      213: 5601044602507336791
+    second: mnichyOFFICIAL_62
+  - first:
+      213: 7447274101578102553
+    second: mnichyOFFICIAL_63
+  - first:
+      213: -776909988941857353
+    second: mnichyOFFICIAL_64
+  - first:
+      213: -731162593655690441
+    second: mnichyOFFICIAL_65
+  - first:
+      213: -6867976569739904228
+    second: mnichyOFFICIAL_66
+  - first:
+      213: 3614523231722286580
+    second: mnichyOFFICIAL_67
+  - first:
+      213: 3026622191995539485
+    second: mnichyOFFICIAL_68
+  - first:
+      213: 6433698061813448282
+    second: mnichyOFFICIAL_69
+  - first:
+      213: 844901542940162070
+    second: mnichyOFFICIAL_70
+  - first:
+      213: 4287517680838502894
+    second: mnichyOFFICIAL_71
+  - first:
+      213: -2127464998876707028
+    second: mnichyOFFICIAL_72
+  - first:
+      213: 7432052738353379590
+    second: mnichyOFFICIAL_73
+  - first:
+      213: -3317966030506206310
+    second: mnichyOFFICIAL_74
+  - first:
+      213: 4212614610044926101
+    second: mnichyOFFICIAL_75
+  - first:
+      213: 8747496257386193048
+    second: mnichyOFFICIAL_76
+  - first:
+      213: -8154148971647823127
+    second: mnichyOFFICIAL_77
+  - first:
+      213: -8869879760916837618
+    second: mnichyOFFICIAL_78
+  - first:
+      213: -4499673398487058498
+    second: mnichyOFFICIAL_79
+  - first:
+      213: 1610338481189742722
+    second: mnichyOFFICIAL_80
+  - first:
+      213: -5187980382804876223
+    second: mnichyOFFICIAL_81
+  - first:
+      213: 5517933248962329336
+    second: mnichyOFFICIAL_82
+  - first:
+      213: 8435977442894993990
+    second: mnichyOFFICIAL_83
+  - first:
+      213: -872808027237805585
+    second: mnichyOFFICIAL_84
+  - first:
+      213: 8342520569079604258
+    second: mnichyOFFICIAL_85
+  - first:
+      213: -2635410509968162014
+    second: mnichyOFFICIAL_86
+  - first:
+      213: 3425049327895585180
+    second: mnichyOFFICIAL_87
+  - first:
+      213: -4506709587669099625
+    second: mnichyOFFICIAL_88
+  - first:
+      213: -5494068929092558217
+    second: mnichyOFFICIAL_89
+  - first:
+      213: 7491249928605661352
+    second: mnichyOFFICIAL_90
+  - first:
+      213: -1091618639488865208
+    second: mnichyOFFICIAL_91
+  - first:
+      213: -3496910753419568044
+    second: mnichyOFFICIAL_92
+  - first:
+      213: 7632203814400179228
+    second: mnichyOFFICIAL_93
+  - first:
+      213: 5842988151732276047
+    second: mnichyOFFICIAL_94
+  - first:
+      213: 7002924589725828725
+    second: mnichyOFFICIAL_95
+  - first:
+      213: -2496631109741126351
+    second: mnichyOFFICIAL_96
+  - first:
+      213: 8907957522779281336
+    second: mnichyOFFICIAL_97
+  - first:
+      213: 4143402357177101438
+    second: mnichyOFFICIAL_98
+  - first:
+      213: 1476512702444845407
+    second: mnichyOFFICIAL_99
+  - first:
+      213: 6043972020532859277
+    second: mnichyOFFICIAL_100
+  - first:
+      213: 3218472722614775730
+    second: mnichyOFFICIAL_101
+  - first:
+      213: 3224467657466691836
+    second: mnichyOFFICIAL_102
+  - first:
+      213: 4848826921838288486
+    second: mnichyOFFICIAL_103
+  - first:
+      213: 8860056387977298134
+    second: mnichyOFFICIAL_104
+  - first:
+      213: -157041303534563023
+    second: mnichyOFFICIAL_105
+  - first:
+      213: 8304286516738977839
+    second: mnichyOFFICIAL_106
+  - first:
+      213: 3210443935983284948
+    second: mnichyOFFICIAL_107
+  - first:
+      213: 5510256992955379486
+    second: mnichyOFFICIAL_108
+  - first:
+      213: -3081117829272033240
+    second: mnichyOFFICIAL_109
+  - first:
+      213: -2039872545148600030
+    second: mnichyOFFICIAL_110
+  - first:
+      213: -7649449077513296714
+    second: mnichyOFFICIAL_111
+  - first:
+      213: -4134374112894406442
+    second: mnichyOFFICIAL_112
+  - first:
+      213: 1960085551936255153
+    second: mnichyOFFICIAL_113
+  - first:
+      213: 7031950341250120898
+    second: mnichyOFFICIAL_114
+  - first:
+      213: 4458613817210727266
+    second: mnichyOFFICIAL_115
+  - first:
+      213: 1884803678132828025
+    second: mnichyOFFICIAL_116
+  - first:
+      213: -777045207970026363
+    second: mnichyOFFICIAL_117
+  - first:
+      213: 9001293539243666647
+    second: mnichyOFFICIAL_118
+  - first:
+      213: 3693737201108944875
+    second: mnichyOFFICIAL_119
+  - first:
+      213: 2431282135908182393
+    second: mnichyOFFICIAL_120
+  - first:
+      213: -7837713074862829477
+    second: mnichyOFFICIAL_121
+  - first:
+      213: -6802254779626941250
+    second: mnichyOFFICIAL_122
+  - first:
+      213: -5235899926462814515
+    second: mnichyOFFICIAL_123
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +404,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -41,12 +413,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -66,7 +438,31 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -75,7 +471,2611 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 389
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5034b9f1906bd8830800000000000000
+      internalID: 4075113388141396741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 389
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5080480da38e7300800000000000000
+      internalID: 251783408370352222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 389
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29da0527805618d0800000000000000
+      internalID: -2876022770657208018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 389
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8cf2b2b8c72ec60800000000000000
+      internalID: 7845970437999675612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 389
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22869e3db0036b9f0800000000000000
+      internalID: -453121885146093534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 389
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dba52c8280427c0800000000000000
+      internalID: -4097140789847868102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 389
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efcec82b4b90a940800000000000000
+      internalID: 5305411108151939045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 389
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4b87ccbe9c3b190800000000000000
+      internalID: -7947786902793833230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 356
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254b4a1028b0683b0800000000000000
+      internalID: -5510704441039997870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 356
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c621120f96a520110800000000000000
+      internalID: 1225641459644961388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 356
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b720fa35fe36a78f0800000000000000
+      internalID: -542010925592411525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 356
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2340feb28ca7d5a0800000000000000
+      internalID: -6496534259909508310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 356
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb38918ad8686170800000000000000
+      internalID: 8171896811550161850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_13
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 356
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976dc07731181f470800000000000000
+      internalID: 8426658298388600441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 356
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1586f3f3fc28213b0800000000000000
+      internalID: -5543224364708698031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 356
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e2aecb982aac3c0800000000000000
+      internalID: -4338476578554368422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 324
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf683be8fbe3f9990800000000000000
+      internalID: -7377108672155777284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 324
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8074e89bcde12f550800000000000000
+      internalID: 6193046370942600968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 324
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f4c67ab11d2be80800000000000000
+      internalID: -8164233257766072437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 324
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b049f732ae063f00800000000000000
+      internalID: 1096079649197867186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 324
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56656baf34db1550800000000000000
+      internalID: 6132728687518639709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 324
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88e4d4cc3c9b64a0800000000000000
+      internalID: -6599009044167071604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 324
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e390a569f3c2dc0800000000000000
+      internalID: -3662482481970856325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 324
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0864cd5df8eada890800000000000000
+      internalID: -7445102676182022528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 324
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae071ef61ecba3cc0800000000000000
+      internalID: -3730461664892325654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_25
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 324
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfec64c366d52f50800000000000000
+      internalID: 6856121731727028146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_26
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 293
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c318550a0bf8113f0800000000000000
+      internalID: -931805659122007748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_27
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 293
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43c2d2aeb0497c40800000000000000
+      internalID: 5510506806584197964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 293
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5312a04beee6a100800000000000000
+      internalID: 119045134340985692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_29
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 293
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43e35c00b789cf90800000000000000
+      internalID: -6932860961169349812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 293
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5c05441ab73d4b0800000000000000
+      internalID: -5416849994230479367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 293
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d6def127cb38760800000000000000
+      internalID: 7459012606203620665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 293
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37e0a8a47d4d5050800000000000000
+      internalID: 5790869859308988223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_33
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 293
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21104515a57ba8050800000000000000
+      internalID: 5803652668359704850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 293
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b72fbd1696edae0800000000000000
+      internalID: -1522663754981803250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_35
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 293
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038b96938db432630800000000000000
+      internalID: 3901045094281230384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 252
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b4a906a696d5df0800000000000000
+      internalID: -189879703671518415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_37
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 252
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd0e267e572b3e30800000000000000
+      internalID: 4484221140640599511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_38
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 252
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3bdc39044900870800000000000000
+      internalID: 8647074289629901765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_39
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 252
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ea1a043792096e0800000000000000
+      internalID: -1832919473357476198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_40
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 252
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eadf4cb439f640a0800000000000000
+      internalID: -6897551774378370328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_41
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 252
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5618d858dfd65480800000000000000
+      internalID: -8910688692409461155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_42
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 252
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367457ecff456e480800000000000000
+      internalID: -8870308958402427037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_43
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 252
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94feafd325d56ab90800000000000000
+      internalID: -7230989543888195767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_44
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 252
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1e9a753d48951c0800000000000000
+      internalID: -4514431108218494532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_45
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 252
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5b540f23c065ac0800000000000000
+      internalID: -3866889817131993654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_46
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 255
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce24638614a28cd10800000000000000
+      internalID: 2146011682851668716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_47
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 255
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea87d5d64cebf33f0800000000000000
+      internalID: -918806048102582098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_48
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 255
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18efda3b2487f1160800000000000000
+      internalID: 6998444573834739329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_49
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 255
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13bab48f6fcedc70800000000000000
+      internalID: 8997857183407977242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_50
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 216
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9bebca5a5f9d4e0800000000000000
+      internalID: -1956262471199180379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 216
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0096530953e8a06e0800000000000000
+      internalID: -1870526334515189504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_52
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 216
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c533646fcf38660800000000000000
+      internalID: 7387025948487670911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_53
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 216
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7d96e8931a548a0800000000000000
+      internalID: -6321469233370114125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_54
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 216
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a098f0a16af123bb0800000000000000
+      internalID: -4957865441519236854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_55
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 216
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94350924e7f03100800000000000000
+      internalID: 85840952232850588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_56
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 216
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0a67b3a7948a5c0800000000000000
+      internalID: -4204029462817890103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 216
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37072df40a7f0a1f0800000000000000
+      internalID: -1035555646389194637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_58
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 216
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b21006532e57400800000000000000
+      internalID: 321411667298691962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_59
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 216
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0021554d19c22b050800000000000000
+      internalID: 5814759073732956672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 182
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd5c114fc0198e90800000000000000
+      internalID: -7023063661570925114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 182
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8e0afbe47ace260800000000000000
+      internalID: 7128256266884933829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_62
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 182
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c919fe368eabd40800000000000000
+      internalID: 5601044602507336791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_63
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 182
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917778986580a5760800000000000000
+      internalID: 7447274101578102553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_64
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 182
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdfaa63b7cd735f0800000000000000
+      internalID: -776909988941857353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_65
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 182
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b6914be736ad5f0800000000000000
+      internalID: -731162593655690441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_66
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 182
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b72faa2bb00b0a0800000000000000
+      internalID: -6867976569739904228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_67
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 182
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd243b8abd592230800000000000000
+      internalID: 3614523231722286580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_68
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 188
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10553f09d8b00a20800000000000000
+      internalID: 3026622191995539485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_69
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 188
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e728ecc46194950800000000000000
+      internalID: 6433698061813448282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_70
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 188
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618b0211a71b9bb00800000000000000
+      internalID: 844901542940162070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_71
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 149
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9e59e4d92508b30800000000000000
+      internalID: 4287517680838502894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_72
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 149
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2780e5fad9b972e0800000000000000
+      internalID: -2127464998876707028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_73
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 149
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609b58db694f32760800000000000000
+      internalID: 7432052738353379590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_74
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 149
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b5dde797734f1d0800000000000000
+      internalID: -3317966030506206310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_75
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 149
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598395f1ba6367a30800000000000000
+      internalID: 4212614610044926101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_76
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 149
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8902097ff79556970800000000000000
+      internalID: 8747496257386193048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_77
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 149
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2905b76b4a6de80800000000000000
+      internalID: -8154148971647823127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_78
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 149
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b00222a5bd7e480800000000000000
+      internalID: -8869879760916837618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_79
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 161
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb777e562e2fd81c0800000000000000
+      internalID: -4499673398487058498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_80
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 161
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288e4731152195610800000000000000
+      internalID: 1610338481189742722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_81
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 161
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144683534579008b0800000000000000
+      internalID: -5187980382804876223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_82
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 117
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa77befd03a39c40800000000000000
+      internalID: 5517933248962329336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 117
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ad6f0e9cc921570800000000000000
+      internalID: 8435977442894993990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_84
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 117
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1916b39b923e3f0800000000000000
+      internalID: -872808027237805585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_85
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 117
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224216bc14696c370800000000000000
+      internalID: 8342520569079604258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_86
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 117
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223440caa142d6bd0800000000000000
+      internalID: -2635410509968162014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_87
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 117
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91286f8738388f20800000000000000
+      internalID: 3425049327895585180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_88
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 117
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bd221f183f471c0800000000000000
+      internalID: -4506709587669099625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_89
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 117
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7726de5fa6521c3b0800000000000000
+      internalID: -5494068929092558217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_90
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 117
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8f536ae1446f760800000000000000
+      internalID: 7491249928605661352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_91
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 117
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c221b81aac9d0f0800000000000000
+      internalID: -1091618639488865208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_92
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 138
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cde2b723a787fc0800000000000000
+      internalID: -3496910753419568044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_93
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 131
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c34ba9ee80be960800000000000000
+      internalID: 7632203814400179228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_94
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 86
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b81da34c6761150800000000000000
+      internalID: 5842988151732276047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_95
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 86
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576c47fafc26f2160800000000000000
+      internalID: 7002924589725828725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_96
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 86
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dd0b0cb3f2a5dd0800000000000000
+      internalID: -2496631109741126351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_97
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 86
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7178bab2c6f9b70800000000000000
+      internalID: 8907957522779281336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_98
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 86
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cae0dbd72508930800000000000000
+      internalID: 4143402357177101438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_99
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 86
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59b39fda70ad7410800000000000000
+      internalID: 1476512702444845407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_100
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 86
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81d244c78080e350800000000000000
+      internalID: 6043972020532859277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_101
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 86
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfecb693ef4aac20800000000000000
+      internalID: 3218472722614775730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_102
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 86
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0c901204c9fbc20800000000000000
+      internalID: 3224467657466691836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_103
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 86
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e958d256e7a4340800000000000000
+      internalID: 4848826921838288486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_104
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 45
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0415f975e35fa70800000000000000
+      internalID: 8860056387977298134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_105
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 45
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13112c734c312ddf0800000000000000
+      internalID: -157041303534563023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_106
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 45
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20fa47c690ce3370800000000000000
+      internalID: 8304286516738977839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_107
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 45
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2379700c9cd8c20800000000000000
+      internalID: 3210443935983284948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_108
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 45
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fa73e5a8d587c40800000000000000
+      internalID: 5510256992955379486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_109
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 45
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8282e13a8abad35d0800000000000000
+      internalID: -3081117829272033240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_110
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 45
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22188575abae0b3e0800000000000000
+      internalID: -2039872545148600030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_111
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 45
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4616fa792b7d590800000000000000
+      internalID: -7649449077513296714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_112
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 45
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0bb5036a0cf96c0800000000000000
+      internalID: -4134374112894406442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_113
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 45
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4398cac6f933b10800000000000000
+      internalID: 1960085551936255153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_114
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 9
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc76681491869160800000000000000
+      internalID: 7031950341250120898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_115
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 9
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b6e7dd4ad20ed30800000000000000
+      internalID: 4458613817210727266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_116
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 9
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977f47a85fa282a10800000000000000
+      internalID: 1884803678132828025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_117
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 9
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ce68410816735f0800000000000000
+      internalID: -777045207970026363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_118
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 9
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc23a578c40bec70800000000000000
+      internalID: 9001293539243666647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_119
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 9
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be78eb50a6ac24330800000000000000
+      internalID: 3693737201108944875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_120
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 9
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9796f8b9836adb120800000000000000
+      internalID: 2431282135908182393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_121
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 9
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50dd510c79da3390800000000000000
+      internalID: -7837713074862829477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_122
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 9
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb412ac51598991a0800000000000000
+      internalID: -6802254779626941250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mnichyOFFICIAL_123
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 9
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6a0b302c85657b0800000000000000
+      internalID: -5235899926462814515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -20,10 +20,7 @@ public class projectitle : MonoBehaviour
        
 
         transform.position = Vector2.MoveTowards(transform.position,target, speed * Time.deltaTime);
-      /*  if(transform.position.x==target.x && transform.position.y==target.y)
-        {
-            DestroyProjectile();
-        }*/
+     
         Destroy(gameObject, 2000f);
     }
     void OnTriggerEnter2D(Collider2D other)

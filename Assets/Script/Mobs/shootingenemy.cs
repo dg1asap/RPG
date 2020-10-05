@@ -24,14 +24,14 @@ public class shootingenemy : MonoBehaviour
 
 
 
-
+    public Animator anim;
 
 
 
 
 
     public Transform player;
-
+    
     public GameObject projectile;
     public GameObject projectile1;
 
@@ -41,6 +41,7 @@ public class shootingenemy : MonoBehaviour
     void Start()
 
     {
+        anim = GetComponent<Animator>();
 
         player = GameObject.FindGameObjectWithTag("Player").transform;
 
@@ -85,15 +86,19 @@ public class shootingenemy : MonoBehaviour
 
             if (timeBtwShots <= 0)
             {
+               
 
+                StartCoroutine(AttackCo());
                 Instantiate(projectile, transform.position, Quaternion.identity);
-                Instantiate(projectile1, transform.position, Quaternion.identity);
+                    Instantiate(projectile1, transform.position, Quaternion.identity);
+             
                
                 timeBtwShots = startTimeBtwShots;
 
             }
             else
             {
+               
 
                 timeBtwShots -= Time.deltaTime;
 
@@ -103,4 +108,14 @@ public class shootingenemy : MonoBehaviour
 
     }
 
+
+
+    public IEnumerator AttackCo()
+    {
+       
+        anim.SetBool("attack", true);
+        yield return new WaitForSeconds(1f);
+        
+        anim.SetBool("attack", false);
+    }
 }
