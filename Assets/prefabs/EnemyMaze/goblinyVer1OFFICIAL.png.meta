@@ -1,7 +1,229 @@
 fileFormatVersion: 2
 guid: b1dabdf06a819fb48aa38eec95f67dba
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4718962784743196445
+    second: goblinyVer1OFFICIAL_0
+  - first:
+      213: 3559005643492111495
+    second: goblinyVer1OFFICIAL_1
+  - first:
+      213: 6608666661495748289
+    second: goblinyVer1OFFICIAL_2
+  - first:
+      213: -3529939794859607497
+    second: goblinyVer1OFFICIAL_3
+  - first:
+      213: -5096144230022439081
+    second: goblinyVer1OFFICIAL_4
+  - first:
+      213: 1556633704421152798
+    second: goblinyVer1OFFICIAL_5
+  - first:
+      213: -6294248763277717948
+    second: goblinyVer1OFFICIAL_6
+  - first:
+      213: 7030421695458052368
+    second: goblinyVer1OFFICIAL_7
+  - first:
+      213: 4825611739079590804
+    second: goblinyVer1OFFICIAL_8
+  - first:
+      213: 7005611816106001101
+    second: goblinyVer1OFFICIAL_9
+  - first:
+      213: 8925359517342647469
+    second: goblinyVer1OFFICIAL_10
+  - first:
+      213: -461791192965598290
+    second: goblinyVer1OFFICIAL_11
+  - first:
+      213: 1222386940744647829
+    second: goblinyVer1OFFICIAL_12
+  - first:
+      213: -2092455025385886967
+    second: goblinyVer1OFFICIAL_13
+  - first:
+      213: -7280575387363938346
+    second: goblinyVer1OFFICIAL_14
+  - first:
+      213: -2267953286604823509
+    second: goblinyVer1OFFICIAL_15
+  - first:
+      213: 689614096724167477
+    second: goblinyVer1OFFICIAL_16
+  - first:
+      213: -8180173883662130946
+    second: goblinyVer1OFFICIAL_17
+  - first:
+      213: -4150179954600742987
+    second: goblinyVer1OFFICIAL_18
+  - first:
+      213: -1058930983237144133
+    second: goblinyVer1OFFICIAL_19
+  - first:
+      213: -4187563291125969531
+    second: goblinyVer1OFFICIAL_20
+  - first:
+      213: 7471131727231669331
+    second: goblinyVer1OFFICIAL_21
+  - first:
+      213: 2132092676589172556
+    second: goblinyVer1OFFICIAL_22
+  - first:
+      213: 578532400674529082
+    second: goblinyVer1OFFICIAL_23
+  - first:
+      213: -6037592307357164314
+    second: goblinyVer1OFFICIAL_24
+  - first:
+      213: -4636945972342013794
+    second: goblinyVer1OFFICIAL_25
+  - first:
+      213: -1941593314790015040
+    second: goblinyVer1OFFICIAL_26
+  - first:
+      213: -5367428556242852332
+    second: goblinyVer1OFFICIAL_27
+  - first:
+      213: 62393382470412750
+    second: goblinyVer1OFFICIAL_28
+  - first:
+      213: -4135520297834917205
+    second: goblinyVer1OFFICIAL_29
+  - first:
+      213: 778966072032950541
+    second: goblinyVer1OFFICIAL_30
+  - first:
+      213: 3436176785786173352
+    second: goblinyVer1OFFICIAL_31
+  - first:
+      213: -9031892667019533973
+    second: goblinyVer1OFFICIAL_32
+  - first:
+      213: 3043833958659371369
+    second: goblinyVer1OFFICIAL_33
+  - first:
+      213: 861011812038120917
+    second: goblinyVer1OFFICIAL_34
+  - first:
+      213: -8459686075821303592
+    second: goblinyVer1OFFICIAL_35
+  - first:
+      213: -624716427837853169
+    second: goblinyVer1OFFICIAL_36
+  - first:
+      213: -3958942846581323041
+    second: goblinyVer1OFFICIAL_37
+  - first:
+      213: 4755541060953318994
+    second: goblinyVer1OFFICIAL_38
+  - first:
+      213: -1400512774081057648
+    second: goblinyVer1OFFICIAL_39
+  - first:
+      213: 4723924070694861144
+    second: goblinyVer1OFFICIAL_40
+  - first:
+      213: -217571099732003778
+    second: goblinyVer1OFFICIAL_41
+  - first:
+      213: -3107134503312932111
+    second: goblinyVer1OFFICIAL_42
+  - first:
+      213: -5148421062942171306
+    second: goblinyVer1OFFICIAL_43
+  - first:
+      213: 9222271334941071983
+    second: goblinyVer1OFFICIAL_44
+  - first:
+      213: 8295460292739961885
+    second: goblinyVer1OFFICIAL_45
+  - first:
+      213: 7146727099836012942
+    second: goblinyVer1OFFICIAL_46
+  - first:
+      213: -856720964076035159
+    second: goblinyVer1OFFICIAL_47
+  - first:
+      213: 8025324710603643808
+    second: goblinyVer1OFFICIAL_48
+  - first:
+      213: -861500941326836243
+    second: goblinyVer1OFFICIAL_49
+  - first:
+      213: -5364693399156233804
+    second: goblinyVer1OFFICIAL_50
+  - first:
+      213: -6153008176099271863
+    second: goblinyVer1OFFICIAL_51
+  - first:
+      213: 6104285191845479744
+    second: goblinyVer1OFFICIAL_52
+  - first:
+      213: 6881418933175146311
+    second: goblinyVer1OFFICIAL_53
+  - first:
+      213: 4001204828491998707
+    second: goblinyVer1OFFICIAL_54
+  - first:
+      213: 1450417449017153494
+    second: goblinyVer1OFFICIAL_55
+  - first:
+      213: 5809242338820565263
+    second: goblinyVer1OFFICIAL_56
+  - first:
+      213: -4195174042423278080
+    second: goblinyVer1OFFICIAL_57
+  - first:
+      213: 3041506655589436283
+    second: goblinyVer1OFFICIAL_58
+  - first:
+      213: 150119734142610059
+    second: goblinyVer1OFFICIAL_59
+  - first:
+      213: 7358660938408965841
+    second: goblinyVer1OFFICIAL_60
+  - first:
+      213: -5330189235721193
+    second: goblinyVer1OFFICIAL_61
+  - first:
+      213: -2004691102694568146
+    second: goblinyVer1OFFICIAL_62
+  - first:
+      213: -5444200179387009132
+    second: goblinyVer1OFFICIAL_63
+  - first:
+      213: -5335100292359584953
+    second: goblinyVer1OFFICIAL_64
+  - first:
+      213: -7035009491557503036
+    second: goblinyVer1OFFICIAL_65
+  - first:
+      213: -3526921352207423089
+    second: goblinyVer1OFFICIAL_66
+  - first:
+      213: -3966173367873915929
+    second: goblinyVer1OFFICIAL_67
+  - first:
+      213: -2070454679994325999
+    second: goblinyVer1OFFICIAL_68
+  - first:
+      213: 1199729399312681071
+    second: goblinyVer1OFFICIAL_69
+  - first:
+      213: -1411835057272690650
+    second: goblinyVer1OFFICIAL_70
+  - first:
+      213: 7330864222604033296
+    second: goblinyVer1OFFICIAL_71
+  - first:
+      213: -2819895013834854902
+    second: goblinyVer1OFFICIAL_72
+  - first:
+      213: 5997603165969447987
+    second: goblinyVer1OFFICIAL_73
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -99,7 +321,1561 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 337
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1708ec86af1d7140800000000000000
+      internalID: 4718962784743196445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 337
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78435fdb6c0246130800000000000000
+      internalID: 3559005643492111495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 337
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6bb6d7053b6bb50800000000000000
+      internalID: 6608666661495748289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 337
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ab0e08572230fc0800000000000000
+      internalID: -3529939794859607497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 337
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f1b55c2dbd649b0800000000000000
+      internalID: -5096144230022439081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 337
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e185c655b164a9510800000000000000
+      internalID: 1556633704421152798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 337
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ec3e0291656a8a0800000000000000
+      internalID: -6294248763277717948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_7
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 337
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0190af28843119160800000000000000
+      internalID: 7030421695458052368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_8
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 337
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4934bcb3f4408f240800000000000000
+      internalID: 4825611739079590804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 337
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2074554dee83160800000000000000
+      internalID: 7005611816106001101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 305
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da44cd3413f3ddb70800000000000000
+      internalID: 8925359517342647469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 305
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3b1ee4b536799f0800000000000000
+      internalID: -461791192965598290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 305
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5944925327ac6f010800000000000000
+      internalID: 1222386940744647829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 305
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ba46f9d3b16f2e0800000000000000
+      internalID: -2092455025385886967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_14
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 305
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df68b3624336fa90800000000000000
+      internalID: -7280575387363938346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 305
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b246db0808c9680e0800000000000000
+      internalID: -2267953286604823509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 305
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b88530e50029900800000000000000
+      internalID: 689614096724167477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 305
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef02467713f2a7e80800000000000000
+      internalID: -8180173883662130946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 305
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf6314e1599766c0800000000000000
+      internalID: -4150179954600742987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 305
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1be7691ebed41f0800000000000000
+      internalID: -1058930983237144133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 241
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d88f59f59c2e5c0800000000000000
+      internalID: -4187563291125969531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 222
+        width: 15
+        height: 47
+      alignment: 9
+      pivot: {x: 1, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3545bcfd8bacea760800000000000000
+      internalID: 7471131727231669331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 242
+        width: 41
+        height: 28
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c473f483ef6b69d10800000000000000
+      internalID: 2132092676589172556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 241
+        width: 19
+        height: 58
+      alignment: 9
+      pivot: {x: 1, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f5249372c570800800000000000000
+      internalID: 578532400674529082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 241
+        width: 19
+        height: 58
+      alignment: 9
+      pivot: {x: 1, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec5855f8c9263ca0800000000000000
+      internalID: -6037592307357164314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 240
+        width: 42
+        height: 29
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9040eba43246afb0800000000000000
+      internalID: -4636945972342013794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_26
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 222
+        width: 21
+        height: 47
+      alignment: 9
+      pivot: {x: 1, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cffaadca231e05e0800000000000000
+      internalID: -1941593314790015040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 138
+        width: 21
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4166bdb7a201385b0800000000000000
+      internalID: -5367428556242852332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_28
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 156
+        width: 42
+        height: 29
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9eb76637aadd000800000000000000
+      internalID: 62393382470412750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_29
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 157
+        width: 19
+        height: 58
+      alignment: 9
+      pivot: {x: 0, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2d126333eab96c0800000000000000
+      internalID: -4135520297834917205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 157
+        width: 19
+        height: 58
+      alignment: 9
+      pivot: {x: 0, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09fa9fe3817fca00800000000000000
+      internalID: 778966072032950541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 158
+        width: 41
+        height: 28
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a77a3eb490cfaf20800000000000000
+      internalID: 3436176785786173352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_32
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 138
+        width: 15
+        height: 47
+      alignment: 9
+      pivot: {x: 0, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6168dce87548a280800000000000000
+      internalID: -9031892667019533973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_33
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 157
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961b925cbdedd3a20800000000000000
+      internalID: 3043833958659371369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_34
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 105
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d592f36eade2fb00800000000000000
+      internalID: 861011812038120917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_35
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 105
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d85a5bd558299a80800000000000000
+      internalID: -8459686075821303592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_36
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 105
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02bf5108bf8457f0800000000000000
+      internalID: -624716427837853169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_37
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 106
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda4277d4720f09c0800000000000000
+      internalID: -3958942846581323041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 105
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25628e426631ff140800000000000000
+      internalID: 4755541060953318994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_39
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 105
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c608d5d01609ce0800000000000000
+      internalID: -1400512774081057648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_40
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 106
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8593fa3f9efbe8140800000000000000
+      internalID: 4723924070694861144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_41
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 106
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34351fcc380bfcf0800000000000000
+      internalID: -217571099732003778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_42
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 107
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f24caca1ad31e4d0800000000000000
+      internalID: -3107134503312932111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_43
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 107
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f513d12522d88b0800000000000000
+      internalID: -5148421062942171306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 74
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a1e6ddae61cff70800000000000000
+      internalID: 9222271334941071983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_45
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 74
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d149f1d5f256f1370800000000000000
+      internalID: 8295460292739961885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_46
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 73
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89126cae664e2360800000000000000
+      internalID: 7146727099836012942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_47
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 73
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a32e9082d05c14f0800000000000000
+      internalID: -856720964076035159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_48
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 72
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abd1b6ed4eaf5f60800000000000000
+      internalID: 8025324710603643808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_49
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 72
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded9c8255755b04f0800000000000000
+      internalID: -861500941326836243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_50
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 73
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9e86ed6c7cc85b0800000000000000
+      internalID: -5364693399156233804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_51
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 72
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b5783f9af1c9aa0800000000000000
+      internalID: -6153008176099271863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_52
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 72
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04580a34a07c6b450800000000000000
+      internalID: 6104285191845479744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_53
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 72
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7475d867f06bf7f50800000000000000
+      internalID: 6881418933175146311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 37
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5e7db9792278730800000000000000
+      internalID: 4001204828491998707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_55
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 37
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d712b83cfae02410800000000000000
+      internalID: 1450417449017153494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 37
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f092f83e0239e9050800000000000000
+      internalID: 5809242338820565263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_57
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 38
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006cb667f6fb7c5c0800000000000000
+      internalID: -4195174042423278080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_58
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 37
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b056c403a953a20800000000000000
+      internalID: 3041506655589436283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_59
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 37
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aa8535a15551200800000000000000
+      internalID: 150119734142610059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_60
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 38
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6b868b2273f1660800000000000000
+      internalID: 7358660938408965841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_61
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 38
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ce40c98301deff0800000000000000
+      internalID: -5330189235721193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_62
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 39
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f018b3018ed24e0800000000000000
+      internalID: -2004691102694568146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_63
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 39
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497f48d08c05274b0800000000000000
+      internalID: -5444200179387009132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_64
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74303d8fc8ae5f5b0800000000000000
+      internalID: -5335100292359584953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_65
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 5
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfa638f320ae5e90800000000000000
+      internalID: -7035009491557503036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_66
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89afe277bbdd0fc0800000000000000
+      internalID: -3526921352207423089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_67
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 4
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3b24ae55255f8c0800000000000000
+      internalID: -3966173367873915929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_68
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 3
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114a46330744443e0800000000000000
+      internalID: -2070454679994325999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_69
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 3
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6800a0488b46a010800000000000000
+      internalID: 1199729399312681071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_70
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 4
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62861d1ee77286ce0800000000000000
+      internalID: -1411835057272690650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_71
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dfeec7b267cb560800000000000000
+      internalID: 7330864222604033296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_72
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 3
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e6a74ec68bdd8d0800000000000000
+      internalID: -2819895013834854902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goblinyVer1OFFICIAL_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cfd538d44cb3350800000000000000
+      internalID: 5997603165969447987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
