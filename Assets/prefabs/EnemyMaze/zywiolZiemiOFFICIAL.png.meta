@@ -1,7 +1,163 @@
 fileFormatVersion: 2
 guid: f6ae64fca0ca0ea4c80480a52bb07225
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6040272666220807132
+    second: zywiolZiemiOFFICIAL_0
+  - first:
+      213: -2395808138413403599
+    second: zywiolZiemiOFFICIAL_1
+  - first:
+      213: -5101967015452381845
+    second: zywiolZiemiOFFICIAL_2
+  - first:
+      213: 5232142001201888810
+    second: zywiolZiemiOFFICIAL_3
+  - first:
+      213: -6551659606864826357
+    second: zywiolZiemiOFFICIAL_4
+  - first:
+      213: -2401989628311179078
+    second: zywiolZiemiOFFICIAL_5
+  - first:
+      213: -4588727617488524258
+    second: zywiolZiemiOFFICIAL_6
+  - first:
+      213: -1787143610568873263
+    second: zywiolZiemiOFFICIAL_7
+  - first:
+      213: -3507833504206881764
+    second: zywiolZiemiOFFICIAL_8
+  - first:
+      213: -6136515896782332774
+    second: zywiolZiemiOFFICIAL_9
+  - first:
+      213: 1472112411118299580
+    second: zywiolZiemiOFFICIAL_10
+  - first:
+      213: -118439460421948488
+    second: zywiolZiemiOFFICIAL_11
+  - first:
+      213: -2647930529848186555
+    second: zywiolZiemiOFFICIAL_12
+  - first:
+      213: -8827699239239654637
+    second: zywiolZiemiOFFICIAL_13
+  - first:
+      213: 1657793808837419050
+    second: zywiolZiemiOFFICIAL_14
+  - first:
+      213: -3372430189594941397
+    second: zywiolZiemiOFFICIAL_15
+  - first:
+      213: -5755244113243593102
+    second: zywiolZiemiOFFICIAL_16
+  - first:
+      213: 71950172091123812
+    second: zywiolZiemiOFFICIAL_17
+  - first:
+      213: -535142524349106739
+    second: zywiolZiemiOFFICIAL_18
+  - first:
+      213: 2803675296646103771
+    second: zywiolZiemiOFFICIAL_19
+  - first:
+      213: 8640332303595122959
+    second: zywiolZiemiOFFICIAL_20
+  - first:
+      213: -6912155358275568153
+    second: zywiolZiemiOFFICIAL_21
+  - first:
+      213: 6806205008058833254
+    second: zywiolZiemiOFFICIAL_22
+  - first:
+      213: 7051568111380980173
+    second: zywiolZiemiOFFICIAL_23
+  - first:
+      213: 971010506345640463
+    second: zywiolZiemiOFFICIAL_24
+  - first:
+      213: 6954930957394389872
+    second: zywiolZiemiOFFICIAL_25
+  - first:
+      213: -3743156709915005973
+    second: zywiolZiemiOFFICIAL_26
+  - first:
+      213: -8688610164827492650
+    second: zywiolZiemiOFFICIAL_27
+  - first:
+      213: 6653653427656788611
+    second: zywiolZiemiOFFICIAL_28
+  - first:
+      213: 7846231172070522166
+    second: zywiolZiemiOFFICIAL_29
+  - first:
+      213: -165357266511442887
+    second: zywiolZiemiOFFICIAL_30
+  - first:
+      213: -7036059091878347471
+    second: zywiolZiemiOFFICIAL_31
+  - first:
+      213: 2286566873282038469
+    second: zywiolZiemiOFFICIAL_32
+  - first:
+      213: 1595510955809539066
+    second: zywiolZiemiOFFICIAL_33
+  - first:
+      213: 4910024744128949427
+    second: zywiolZiemiOFFICIAL_34
+  - first:
+      213: 8192175500073357485
+    second: zywiolZiemiOFFICIAL_35
+  - first:
+      213: -1729350948390424541
+    second: zywiolZiemiOFFICIAL_36
+  - first:
+      213: -1981116312990027913
+    second: zywiolZiemiOFFICIAL_37
+  - first:
+      213: -6173646341902375960
+    second: zywiolZiemiOFFICIAL_38
+  - first:
+      213: 3659175689372199023
+    second: zywiolZiemiOFFICIAL_39
+  - first:
+      213: -2995639235020455638
+    second: zywiolZiemiOFFICIAL_40
+  - first:
+      213: 9066724729185995801
+    second: zywiolZiemiOFFICIAL_41
+  - first:
+      213: -9217599133905452161
+    second: zywiolZiemiOFFICIAL_42
+  - first:
+      213: -6475627401666855919
+    second: zywiolZiemiOFFICIAL_43
+  - first:
+      213: 2026523731030306552
+    second: zywiolZiemiOFFICIAL_44
+  - first:
+      213: 7102381343976512260
+    second: zywiolZiemiOFFICIAL_45
+  - first:
+      213: -7235073786494234468
+    second: zywiolZiemiOFFICIAL_46
+  - first:
+      213: -7734279723885769605
+    second: zywiolZiemiOFFICIAL_47
+  - first:
+      213: -2730250220656430832
+    second: zywiolZiemiOFFICIAL_48
+  - first:
+      213: 4855956965097681255
+    second: zywiolZiemiOFFICIAL_49
+  - first:
+      213: 4674853849906362767
+    second: zywiolZiemiOFFICIAL_50
+  - first:
+      213: -8431546144058053170
+    second: zywiolZiemiOFFICIAL_51
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -32,7 +188,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -41,12 +197,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -66,7 +222,31 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -75,7 +255,637 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 90
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3c798bcfb53d350800000000000000
+      internalID: 6040272666220807132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 90
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d6334e70c2239b0800000000000000
+      internalID: -5101967015452381845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 90
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e3a04dd6d4c9840800000000000000
+      internalID: 5232142001201888810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 90
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00fb8bbc44d315a0800000000000000
+      internalID: -6551659606864826357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 90
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0f65ac82b6aaed0800000000000000
+      internalID: -2401989628311179078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 93
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c62944b809150c0800000000000000
+      internalID: -4588727617488524258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 90
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1daee69da5ac237e0800000000000000
+      internalID: -1787143610568873263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 96
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cf882630ca15fc0800000000000000
+      internalID: -3507833504206881764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 88
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c50c5fd47b6daa0800000000000000
+      internalID: -6136515896782332774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 57
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31362252056bd7580800000000000000
+      internalID: -8827699239239654637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 65
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20a89e8faaa10710800000000000000
+      internalID: 1657793808837419050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 59
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28e3674c98b231d0800000000000000
+      internalID: -3372430189594941397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 62
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276257ab8f34120b0800000000000000
+      internalID: -5755244113243593102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4680501ec4e9ff000800000000000000
+      internalID: 71950172091123812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 59
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc537fb95bac298f0800000000000000
+      internalID: -535142524349106739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 59
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2012ae3d7a8e620800000000000000
+      internalID: 2803675296646103771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 59
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01be11a370a8e770800000000000000
+      internalID: 8640332303595122959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 59
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669d4ddd46f747e50800000000000000
+      internalID: 6806205008058833254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 30
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb65eeedc2ad0cc0800000000000000
+      internalID: -3743156709915005973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_28
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 30
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a0b063a86865c50800000000000000
+      internalID: 6653653427656788611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_29
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 30
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d3cdc0ea963ec60800000000000000
+      internalID: 7846231172070522166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 30
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dfee9d885ea5e90800000000000000
+      internalID: -7036059091878347471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_32
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 30
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cac62dd4748bbf10800000000000000
+      internalID: 2286566873282038469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_34
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 30
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc2f288d79e32440800000000000000
+      internalID: 4910024744128949427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_39
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6866cff6e008c230800000000000000
+      internalID: 3659175689372199023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_41
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c81678a1a73dd70800000000000000
+      internalID: 9066724729185995801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_42
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f730e95bc62841080800000000000000
+      internalID: -9217599133905452161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_44
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fee5fca898af1c10800000000000000
+      internalID: 2026523731030306552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bd41bc33ab09260800000000000000
+      internalID: 7102381343976512260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zywiolZiemiOFFICIAL_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c4840b1915aa490800000000000000
+      internalID: -7734279723885769605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
