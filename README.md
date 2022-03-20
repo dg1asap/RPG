@@ -61,7 +61,7 @@
 
 <img src="images/fight.gif" alt="fight">
 
-The RPG is the work of two buddies who want to create their own open-world game, full of exploration, on their own terms. RPG is a game without a main storyline, based on fighting with monsters and discovering new corners of the map. The game is played from the third person and the main type of weapon is the throwing weapon.
+The RPG is the work of two buddies who want to create their own open-world game, full of exploration, on their own terms. RPG is a game without a main storyline, based on fighting with monsters and discovering new corners of the map. The game is played from the top-down perspective and the main type of weapon is the throwing weapon and shield.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -124,12 +124,14 @@ If you want to install .NET on Linux, I recommend the [site](https://docs.micros
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add hp bar
-- [x] Add first enemy, Orc
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Spawn point
+- [x] Power up's (regeneration heart's) and Coin's
+- [x] New mob's: Goblins, Demons, Robots, Bugs, Eye, BOSS, Slime, Killer
+- [x] Maze map
+- [x] Add the most epic easter eggs ever
+- [x] New weapon's: shield, magic
+- [ ] Optimalisation of enemy dmg, hp, speed
+- [ ] Android version
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -167,7 +169,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 dg1asap - dg_1@wp.pl
 
+kuba173 - j.kiernozek173@wp.pl
+
 Project Link: [https://github.com/dg1asap/RPG](https://github.com/dg1asap/RPG)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
