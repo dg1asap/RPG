@@ -4,6 +4,7 @@ using UnityEngine;
 
 namespace AttackProcess
 {
+    
     public abstract class Attack : MonoBehaviour
     {
         public abstract void execute();
