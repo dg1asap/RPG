@@ -19,7 +19,7 @@ public class Mainmenu : MonoBehaviour
     }
     public void NewGame()
     {
-        SceneManager.LoadScene("maze5");
+        SceneManager.LoadScene("maze3");
 
     }
     public void Quitgame()
