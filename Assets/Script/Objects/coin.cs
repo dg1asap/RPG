@@ -5,6 +5,7 @@ using UnityEngine;
 public class coin : PowerUp
 {
     public Inventory playerInventory;
+    private AudioSource coinSound;
 
     // Start is called before the first frame update
     void Start()
@@ -24,6 +25,8 @@ public class coin : PowerUp
         {
             playerInventory.coins += 1;
             powerupSignal.Raise();
+            coinSound = GameObject.FindWithTag("coin_song").GetComponent<AudioSource>();
+            coinSound.Play();
             Destroy(this.gameObject);
         }
     }

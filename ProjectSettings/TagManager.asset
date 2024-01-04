@@ -10,6 +10,7 @@ TagManager:
   - enemyfriendly
   - Slime
   - GM
+  - coin_song
   layers:
   - Default
   - TransparentFX
