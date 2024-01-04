@@ -11,6 +11,7 @@ TagManager:
   - Slime
   - GM
   - coin_song
+  - powerUp_song
   layers:
   - Default
   - TransparentFX

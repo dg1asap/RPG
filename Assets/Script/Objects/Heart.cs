@@ -7,7 +7,10 @@ public class Heart : PowerUp
     public FloatValue heartContainers;
     public FloatValue playerHealth;
     public float amountToIncrease;
+    private AudioSource powerUpSound;
 
+    [SerializeField]
+    private float soundMultiplier = 2.0f;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,6 +22,7 @@ public class Heart : PowerUp
     {
         
     }
+
     public void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player") && !other.isTrigger)
@@ -27,9 +31,16 @@ public class Heart : PowerUp
             if (playerHealth.RuntimeValue > heartContainers.RuntimeValue * 2f)
             {
                 playerHealth.RuntimeValue = heartContainers.RuntimeValue * 2f;
-
             }
- powerupSignal.Raise();
+            powerupSignal.Raise();
+            
+            powerUpSound = GameObject.FindWithTag("powerUp_song").GetComponent<AudioSource>();
+            if (powerUpSound != null)
+            {
+                powerUpSound.volume = Mathf.Clamp01(powerUpSound.volume * soundMultiplier);
+                powerUpSound.Play();
+            }
+
             Destroy(this.gameObject);
         }
     }
