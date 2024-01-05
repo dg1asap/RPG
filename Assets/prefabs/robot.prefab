@@ -206,7 +206,7 @@ MonoBehaviour:
   soundMultiplier: 2
   myRigidbody: {fileID: 2294319102569172805}
   target: {fileID: 0}
-  chaseRadius: 10
+  chaseRadius: 5
   attackRadius: 1.2
   homePosition: {fileID: 0}
   anim: {fileID: 5537682743847430331}
