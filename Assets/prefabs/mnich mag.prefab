@@ -173,7 +173,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f9b5a1db88630a0428784b26c62509fe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  chaseRadius: 10
+  chaseRadius: 1
   speed: 2
   stoppingDistance: 6
   retreaDistance: 3
@@ -246,7 +246,7 @@ MonoBehaviour:
   soundMultiplier: 2
   myRigidbody: {fileID: 0}
   target: {fileID: 0}
-  chaseRadius: 10
+  chaseRadius: 1
   attackRadius: 1.2
   homePosition: {fileID: 0}
   anim: {fileID: 0}
