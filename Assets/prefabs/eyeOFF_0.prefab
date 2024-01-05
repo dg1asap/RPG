@@ -151,6 +151,7 @@ MonoBehaviour:
   deathEffect: {fileID: 1136972277569529555, guid: 6e730ad13c8f8a7488f9e66e0ca572ef,
     type: 3}
   thisLoot: {fileID: 0}
+  soundMultiplier: 2
   myRigidbody: {fileID: 0}
   target: {fileID: 0}
   chaseRadius: 10
@@ -226,6 +227,7 @@ MonoBehaviour:
   stoppingDistance: 6
   retreaDistance: 3
   startTimeBtwShots: 2
+  anim: {fileID: 0}
   player: {fileID: 0}
   projectile: {fileID: 8456753775169720461, guid: e25db26a6ee50bd439f8ea3db0bb38f6,
     type: 3}
@@ -245,3 +247,5 @@ MonoBehaviour:
   thrust: 4
   knockTime: 0.2
   damage: 1
+  whichMobAttackSound: 6
+  soundMultiplier: 2

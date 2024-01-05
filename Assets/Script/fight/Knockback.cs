@@ -8,6 +8,7 @@ public class Knockback : MonoBehaviour
 
     public float knockTime;
     public float damage;
+    public int whichMobAttackSound = 0;
     private AudioSource powerUpSound;
 
     [SerializeField]
@@ -46,7 +47,43 @@ public class Knockback : MonoBehaviour
                     {
                         hit.GetComponent<PlayerMovement>().currentState = PlayerState.STAGGER;
 
-                        powerUpSound = GameObject.FindWithTag("log_song").GetComponent<AudioSource>();
+                        switch (whichMobAttackSound)
+                        {
+                            case 0:
+                                powerUpSound = GameObject.FindWithTag("log_song").GetComponent<AudioSource>();
+                                break;
+                            case 1:
+                                powerUpSound = GameObject.FindWithTag("czacha_mnich_mag_song").GetComponent<AudioSource>();
+                                break;
+                            case 2:
+                                powerUpSound = GameObject.FindWithTag("czarny_kosarz_song").GetComponent<AudioSource>();
+                                break;
+                            case 3:
+                                powerUpSound = GameObject.FindWithTag("demon_song").GetComponent<AudioSource>();
+                                break;
+                            case 4:
+                                powerUpSound = GameObject.FindWithTag("goblin_song").GetComponent<AudioSource>();
+                                break;
+                            case 5:
+                                powerUpSound = GameObject.FindWithTag("mnich_song").GetComponent<AudioSource>();
+                                break;
+                            case 6:
+                                powerUpSound = GameObject.FindWithTag("oko_song").GetComponent<AudioSource>();
+                                break;
+                            case 7:
+                                powerUpSound = GameObject.FindWithTag("robot_song").GetComponent<AudioSource>();
+                                break;
+                            case 8:
+                                powerUpSound = GameObject.FindWithTag("slime_song").GetComponent<AudioSource>();
+                                break;
+                            case 9:
+                                powerUpSound = GameObject.FindWithTag("zywiolak_song").GetComponent<AudioSource>();
+                                break;
+                            default:
+                                powerUpSound = GameObject.FindWithTag("log_song").GetComponent<AudioSource>();
+                                break;
+                        }
+                       
                         if (powerUpSound != null)
                         {
                             powerUpSound.volume = Mathf.Clamp01(powerUpSound.volume * soundMultiplier);

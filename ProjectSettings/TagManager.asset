@@ -15,6 +15,16 @@ TagManager:
   - player_dmg
   - log_song
   - enemyDeath_song
+  - Undefined
+  - czarny_kosarz_song
+  - demon_song
+  - goblin_song
+  - mnich_song
+  - oko_song
+  - robot_song
+  - slime_song
+  - zywiolak_song
+  - czacha_mnich_mag_song
   layers:
   - Default
   - TransparentFX

@@ -232,6 +232,8 @@ MonoBehaviour:
   thrust: 2
   knockTime: 0.2
   damage: 1
+  whichMobAttackSound: 8
+  soundMultiplier: 2
 --- !u!1 &8314581426248196330
 GameObject:
   m_ObjectHideFlags: 0

@@ -180,6 +180,8 @@ MonoBehaviour:
   thrust: 4
   knockTime: 0.2
   damage: 1
+  whichMobAttackSound: 1
+  soundMultiplier: 2
 --- !u!50 &4962978446092745538
 Rigidbody2D:
   serializedVersion: 4
@@ -222,6 +224,7 @@ MonoBehaviour:
   deathEffect: {fileID: 1136972277569529555, guid: 6e730ad13c8f8a7488f9e66e0ca572ef,
     type: 3}
   thisLoot: {fileID: 0}
+  soundMultiplier: 2
   myRigidbody: {fileID: 0}
   target: {fileID: 0}
   chaseRadius: 10

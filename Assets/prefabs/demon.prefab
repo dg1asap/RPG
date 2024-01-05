@@ -152,6 +152,7 @@ MonoBehaviour:
   deathEffect: {fileID: 1136972277569529555, guid: 6e730ad13c8f8a7488f9e66e0ca572ef,
     type: 3}
   thisLoot: {fileID: 0}
+  soundMultiplier: 2
   myRigidbody: {fileID: 4895913203833364210}
   target: {fileID: 0}
   chaseRadius: 10
@@ -225,6 +226,8 @@ MonoBehaviour:
   thrust: 4
   knockTime: 0.2
   damage: 1
+  whichMobAttackSound: 3
+  soundMultiplier: 2
 --- !u!1 &4895913203949999474
 GameObject:
   m_ObjectHideFlags: 0
@@ -272,6 +275,8 @@ MonoBehaviour:
   thrust: 3
   knockTime: 0.2
   damage: 3
+  whichMobAttackSound: 3
+  soundMultiplier: 2
 --- !u!60 &4895913203949999436
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -357,6 +362,8 @@ MonoBehaviour:
   thrust: 3
   knockTime: 0.2
   damage: 3
+  whichMobAttackSound: 3
+  soundMultiplier: 2
 --- !u!60 &4895913204909283116
 PolygonCollider2D:
   m_ObjectHideFlags: 0
