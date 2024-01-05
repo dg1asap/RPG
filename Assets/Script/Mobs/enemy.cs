@@ -20,6 +20,10 @@ public class enemy : MonoBehaviour
     public float moveSpeed;
     public GameObject deathEffect;
     public lootTable thisLoot;
+    private AudioSource powerUpSound;
+
+    [SerializeField]
+    private float soundMultiplier = 2.0f;
 
     private void Awake()
     {
@@ -31,11 +35,15 @@ public class enemy : MonoBehaviour
         health -= damage;
         if (health <= 0)
         {
-            DeathEffect();
-           // for (int i = 0; i < 4;i ++)
-           // {
-                MakeLoot();
-           // }
+            powerUpSound = GameObject.FindWithTag("enemyDeath_song").GetComponent<AudioSource>();
+            if (powerUpSound != null)
+            {
+                powerUpSound.volume = Mathf.Clamp01(powerUpSound.volume * soundMultiplier);
+                powerUpSound.Play();
+            }
+            DeathEffect();           
+            MakeLoot();
+           
             this.gameObject.SetActive(false);
         }
     }
@@ -63,8 +71,11 @@ public class enemy : MonoBehaviour
 
     public void Knock(Rigidbody2D myRigidbody, float knockTime,float damage)
     {
-        StartCoroutine(KnockCo(myRigidbody, knockTime));
-        TakeDamage(damage);
+        if (gameObject.activeSelf)
+        {
+            StartCoroutine(KnockCo(myRigidbody, knockTime));
+            TakeDamage(damage);
+        }
     }
 
     private IEnumerator KnockCo(Rigidbody2D myRigidbody, float knockTime)

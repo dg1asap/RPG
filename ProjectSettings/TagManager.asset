@@ -14,6 +14,7 @@ TagManager:
   - powerUp_song
   - player_dmg
   - log_song
+  - enemyDeath_song
   layers:
   - Default
   - TransparentFX
