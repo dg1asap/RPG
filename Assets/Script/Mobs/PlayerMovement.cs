@@ -33,7 +33,10 @@ public class PlayerMovement : MonoBehaviour
     public SpriteRenderer receivedItemSprite;
     public Signal playerHit;
     
-    // Vector2 mousePos;
+    private AudioSource powerUpSound;
+
+    [SerializeField]
+    private float soundMultiplier = 2.0f;
 
     void Start()
     {zdrowie=Health.RuntimeValue;
@@ -210,6 +213,14 @@ public class PlayerMovement : MonoBehaviour
     public void Knock(float knockTime,float damage)
     {
         Health.RuntimeValue -= damage;
+        
+        powerUpSound = GameObject.FindWithTag("player_dmg").GetComponent<AudioSource>();
+        if (powerUpSound != null)
+        {
+            powerUpSound.volume = Mathf.Clamp01(powerUpSound.volume * soundMultiplier);
+            powerUpSound.Play();
+        }
+        
         playerHealthSignal.Raise();
         if (Health.RuntimeValue > 0)
         {
@@ -238,9 +249,3 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 }
-
-
-// class Movement{
-
-
-// }

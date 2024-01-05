@@ -8,14 +8,16 @@ public class Knockback : MonoBehaviour
 
     public float knockTime;
     public float damage;
+    private AudioSource powerUpSound;
 
-  private void OnTriggerEnter2D(Collider2D other)
+    [SerializeField]
+    private float soundMultiplier = 2.0f;
+
+    private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("breakable")&& this.gameObject.CompareTag("Player") )
         {
             other.GetComponent<pot>().Smash();
-
-
         }
 
         if (other.gameObject.CompareTag("enemy") || other.gameObject.CompareTag("Slime")||(other.gameObject.CompareTag("Player")&&!this.gameObject.CompareTag("frie")))
@@ -32,27 +34,28 @@ public class Knockback : MonoBehaviour
                     hit.GetComponent<enemy>().currentState = enemyState.STAGGER;
                     other.GetComponent<enemy>().Knock(hit, knockTime, damage);
                 }
-                    if (other.gameObject.CompareTag("Slime") && other.isTrigger)
-                    {
-                        hit.GetComponent<SlimeDeath>().currentState = SlimeState.STAGGER;
-                        other.GetComponent<SlimeDeath>().Knock(hit, knockTime, damage);
-                    }
+                if (other.gameObject.CompareTag("Slime") && other.isTrigger)
+                {
+                    hit.GetComponent<SlimeDeath>().currentState = SlimeState.STAGGER;
+                    other.GetComponent<SlimeDeath>().Knock(hit, knockTime, damage);
+                }
                 
-              if(other.gameObject.CompareTag("Player")&&!this.gameObject.CompareTag("frie"))
-                { if (other.GetComponent<PlayerMovement>().currentState != PlayerState.STAGGER)
+                if(other.gameObject.CompareTag("Player")&&!this.gameObject.CompareTag("frie"))
+                { 
+                    if (other.GetComponent<PlayerMovement>().currentState != PlayerState.STAGGER)
                     {
                         hit.GetComponent<PlayerMovement>().currentState = PlayerState.STAGGER;
+
+                        powerUpSound = GameObject.FindWithTag("log_song").GetComponent<AudioSource>();
+                        if (powerUpSound != null)
+                        {
+                            powerUpSound.volume = Mathf.Clamp01(powerUpSound.volume * soundMultiplier);
+                            powerUpSound.Play();
+                        }
                         other.GetComponent<PlayerMovement>().Knock(knockTime, damage);
                     }
                 }
-
-             
-                }
-
+            }
         }
-    
     }
-
-   
-
 }

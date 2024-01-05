@@ -12,6 +12,8 @@ TagManager:
   - GM
   - coin_song
   - powerUp_song
+  - player_dmg
+  - log_song
   layers:
   - Default
   - TransparentFX
