@@ -5,22 +5,19 @@ using UnityEngine.UI;
 
 public class Sign : interiactive
 {
-    
-   
-   
 
     public GameObject dialogBox;
     public Text dialogText;
     public string dialog;
-    
+    private AudioSource powerUpSound;
 
-    // Start is called before the first frame update
+    [SerializeField]
+    private float soundMultiplier = 2.0f;
     void Start()
     {
         
     }
 
-    // Update is called once per frame
     void Update()
     {
         if(Input.GetButtonDown("attack") && playerInRange)
@@ -28,20 +25,24 @@ public class Sign : interiactive
             if (dialogBox.activeInHierarchy)
             {
                 dialogBox.SetActive(false);
-
-            }else{ dialogBox.SetActive(true);
+            }
+            else
+            {     
+                powerUpSound = GameObject.FindWithTag("ksiezniczka_song").GetComponent<AudioSource>();
+                if (powerUpSound != null)
+                {
+                    powerUpSound.volume = Mathf.Clamp01(powerUpSound.volume * soundMultiplier);
+                    powerUpSound.Play();
+                }
+                dialogBox.SetActive(true);
                 dialogText.text = dialog;
             
             }
         }
-        
     }
-
-
 
     private void OnTriggerExit2D(Collider2D other)
     {
-
         if (other.CompareTag("Player") && !other.isTrigger)
         {
             context.Raise();
@@ -50,7 +51,5 @@ public class Sign : interiactive
             dialogBox.SetActive(false);
 
         }
-
     }
-
 }

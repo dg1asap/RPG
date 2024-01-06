@@ -13,7 +13,7 @@ public class heartUP : PowerUp
 
     public void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.gameObject.CompareTag("Player")&& heartContainers.RuntimeValue <=4)
+        if(other.gameObject.CompareTag("Player")&& heartContainers.RuntimeValue <=19)
         {
             heartContainers.RuntimeValue += 1;
             
