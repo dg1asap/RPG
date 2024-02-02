@@ -108966,6 +108966,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 06d08de9eb5917a43919b1989c31dbb1, type: 3}
+--- !u!1 &1194480343 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 283085385921973758, guid: d67900de45214a147b08af2d1a7ff7fb,
+    type: 3}
+  m_PrefabInstance: {fileID: 283085385704225802}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1194480348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1194480343}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8487a614af9d984ebb58c6226ddd6b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  imageToToggle: {fileID: 1604550897}
 --- !u!1001 &1198169468
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -122826,6 +122845,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 33
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1604550897 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4378545402212721417, guid: 49dd547128a1fda4ba8a6cc0b841011a,
+    type: 3}
+  m_PrefabInstance: {fileID: 4378545403137794484}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1604685789
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -124959,6 +124990,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 891576283, guid: d67900de45214a147b08af2d1a7ff7fb, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 59.170044
+      objectReference: {fileID: 0}
+    - target: {fileID: 891576283, guid: d67900de45214a147b08af2d1a7ff7fb, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 38.119995
+      objectReference: {fileID: 0}
     - target: {fileID: 283085385921973746, guid: d67900de45214a147b08af2d1a7ff7fb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -125078,6 +125117,41 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408292408311320950, guid: d67900de45214a147b08af2d1a7ff7fb,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408292408311320950, guid: d67900de45214a147b08af2d1a7ff7fb,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408292408311320950, guid: d67900de45214a147b08af2d1a7ff7fb,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408292408311320950, guid: d67900de45214a147b08af2d1a7ff7fb,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1194480348}
+    - target: {fileID: 3408292408311320950, guid: d67900de45214a147b08af2d1a7ff7fb,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: CanvasButtonController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408292408311320950, guid: d67900de45214a147b08af2d1a7ff7fb,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ToggleImageVisibility
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408292408311320950, guid: d67900de45214a147b08af2d1a7ff7fb,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d67900de45214a147b08af2d1a7ff7fb, type: 3}
@@ -125860,6 +125934,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Canvas pause
+      objectReference: {fileID: 0}
+    - target: {fileID: 4378545402212721423, guid: 49dd547128a1fda4ba8a6cc0b841011a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 49dd547128a1fda4ba8a6cc0b841011a, type: 3}
