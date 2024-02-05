@@ -13,7 +13,6 @@ public enum PlayerState
     IDLE
 }
 
-// TODO : zmiana nazwy klasy na Player
 public class PlayerMovement : MonoBehaviour
 {
     public Camera cam;
@@ -34,6 +33,7 @@ public class PlayerMovement : MonoBehaviour
     public Signal playerHit;
     
     private AudioSource powerUpSound;
+    public FixedJoystick joystick;
 
     [SerializeField]
     private float soundMultiplier = 2.0f;
@@ -44,9 +44,7 @@ public class PlayerMovement : MonoBehaviour
         
         currentState = PlayerState.WALK;
         myRigidbody = GetComponent<Rigidbody2D>();
-       // gm = GameObject.FindGameObjectWithTag("GM").GetComponent<GameMaster>();
-      //  transform.position = gm.lastCheckPointPos;
-        //TODO usunąć sprzężenie czasowe getComonent<Animator> i setSpawnPoint()
+      
         animator = GetComponent<Animator>();
         setSpawnPoint();
     }
@@ -77,7 +75,10 @@ public class PlayerMovement : MonoBehaviour
     {
         playerHealthSignal.Raise();
         if(canControlled())
+        {
             steer();
+            UpdateJoystickMovement();
+        }
     }
 
     private bool canControlled()
@@ -96,7 +97,7 @@ public class PlayerMovement : MonoBehaviour
             attack();
         else if(canMove())
         {
-            setDirection();
+            // setDirection();
             UpdateAnimationAndMove();
         }
     }
@@ -128,7 +129,7 @@ public class PlayerMovement : MonoBehaviour
         return currentState == PlayerState.WALK || currentState == PlayerState.IDLE;
     }
 
-    private void attack()
+    public void attack()
     {
         Attack a = AttackFactory.make();
         StartCoroutine(meleeAttack());
@@ -185,6 +186,12 @@ public class PlayerMovement : MonoBehaviour
                 playerInventory.currentItem = null;
             }
         }
+    }
+
+    private void UpdateJoystickMovement()
+    {   
+        direction = new Vector3(joystick.Horizontal, joystick.Vertical, 0f).normalized;
+        Debug.Log("Joystick Direction: " + direction);
     }
 
     void UpdateAnimationAndMove()

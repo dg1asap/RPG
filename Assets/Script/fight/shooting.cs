@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.EventSystems;
 public class shooting : PowerUp
 {
     public Camera cam;
@@ -25,7 +25,8 @@ public class shooting : PowerUp
     void Update()
     {
         mousePos = cam.ScreenToWorldPoint(Input.mousePosition);
-        if (Input.GetButtonDown("Fire1")&&playerInventory.coins > 0)
+   
+        if (Input.GetButtonDown("Fire1")&&playerInventory.coins > 0 && !EventSystem.current.IsPointerOverGameObject())
         {
             Shoot();
           

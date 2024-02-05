@@ -26,6 +26,7 @@ TagManager:
   - zywiolak_song
   - czacha_mnich_mag_song
   - ksiezniczka_song
+  - NoShootingArea
   layers:
   - Default
   - TransparentFX
